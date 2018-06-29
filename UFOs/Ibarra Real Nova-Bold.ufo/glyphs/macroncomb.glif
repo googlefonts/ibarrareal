@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macroncomb" format="1">
+  <advance width="570"/>
+  <unicode hex="0304"/>
+  <outline>
+    <component base="uni02C9"/>
+    <contour>
+      <point x="285" y="470" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-07-15 07:25:43 +0000</string>
+    </dict>
+  </lib>
+</glyph>

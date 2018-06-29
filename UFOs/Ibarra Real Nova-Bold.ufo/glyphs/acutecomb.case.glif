@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutecomb.case" format="1">
+  <advance width="570"/>
+  <outline>
+    <component base="acute" xScale="0.927" xyScale="-0.375" yScale="0.927" yxScale="0.375" xOffset="-215" yOffset="307"/>
+    <contour>
+      <point x="239" y="690" type="move" name="_topcase"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-07-15 08:12:44 +0000</string>
+    </dict>
+  </lib>
+</glyph>

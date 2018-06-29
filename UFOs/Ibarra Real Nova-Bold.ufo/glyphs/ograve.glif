@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ograve" format="1">
+  <advance width="501"/>
+  <unicode hex="00F2"/>
+  <outline>
+    <component base="o"/>
+    <component base="gravecomb" xOffset="-44"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-08-06 11:10:26 +0000</string>
+    </dict>
+  </lib>
+</glyph>

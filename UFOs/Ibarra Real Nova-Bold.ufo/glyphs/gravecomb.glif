@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gravecomb" format="1">
+  <advance width="570"/>
+  <unicode hex="0300"/>
+  <outline>
+    <component base="acute" xScale="-1" xyScale="0.052" yxScale="0.052" xOffset="537" yOffset="-17"/>
+    <contour>
+      <point x="294" y="470" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-07-24 11:03:26 +0000</string>
+    </dict>
+  </lib>
+</glyph>

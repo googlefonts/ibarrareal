@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaaccentcomb" format="1">
+  <advance width="530"/>
+  <unicode hex="0326"/>
+  <outline>
+    <contour>
+      <point x="189" y="-249" type="line"/>
+      <point x="289" y="-246"/>
+      <point x="348" y="-186"/>
+      <point x="348" y="-125" type="curve" smooth="yes"/>
+      <point x="348" y="-81"/>
+      <point x="301" y="-35"/>
+      <point x="237" y="-35" type="curve"/>
+      <point x="222" y="-66"/>
+      <point x="204" y="-79"/>
+      <point x="181" y="-90" type="curve"/>
+      <point x="181" y="-111" type="line"/>
+      <point x="188" y="-110"/>
+      <point x="194" y="-110"/>
+      <point x="200" y="-110" type="curve" smooth="yes"/>
+      <point x="256" y="-110"/>
+      <point x="283" y="-136"/>
+      <point x="283" y="-166" type="curve" smooth="yes"/>
+      <point x="283" y="-198"/>
+      <point x="252" y="-230"/>
+      <point x="189" y="-232" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-06-03 22:31:08 +0000</string>
+    </dict>
+  </lib>
+</glyph>

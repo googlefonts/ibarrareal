@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresiscomb" format="1">
+  <advance width="530"/>
+  <unicode hex="0308"/>
+  <outline>
+    <contour>
+      <point x="114" y="622" type="curve" smooth="yes"/>
+      <point x="114" y="595"/>
+      <point x="138" y="571"/>
+      <point x="165" y="571" type="curve" smooth="yes"/>
+      <point x="194" y="571"/>
+      <point x="218" y="595"/>
+      <point x="218" y="622" type="curve" smooth="yes"/>
+      <point x="218" y="651"/>
+      <point x="194" y="675"/>
+      <point x="165" y="675" type="curve" smooth="yes"/>
+      <point x="138" y="675"/>
+      <point x="114" y="651"/>
+    </contour>
+    <contour>
+      <point x="313" y="622" type="curve" smooth="yes"/>
+      <point x="313" y="595"/>
+      <point x="337" y="571"/>
+      <point x="364" y="571" type="curve" smooth="yes"/>
+      <point x="393" y="571"/>
+      <point x="417" y="595"/>
+      <point x="417" y="622" type="curve" smooth="yes"/>
+      <point x="417" y="651"/>
+      <point x="393" y="675"/>
+      <point x="364" y="675" type="curve" smooth="yes"/>
+      <point x="337" y="675"/>
+      <point x="313" y="651"/>
+    </contour>
+    <contour>
+      <point x="265" y="470" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-06-03 22:42:19 +0000</string>
+    </dict>
+  </lib>
+</glyph>

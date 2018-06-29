@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.schriftgestaltung.DisplayStrings</key>
+	<array>
+		<string>6/endash 0123456789</string>
+	</array>
+	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
+	<false/>
+	<key>com.schriftgestaltung.font.license</key>
+	<string><![CDATA[Copyright (c) <2007>, <José María Ribagorda> (<www.ibarrareal.es>),
+
+with Reserved Font Name <Ibarra Real>.
+
+Copyright (c) <2014>, <José Maria Ribagorda & Octavio Pardo> (<www.ibarrareal.es & www.octaviopardo.com>),
+
+with Reserved Font Name <Ibarra Real>.
+
+
+
+-----------------------------------------------------------
+
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+
+-----------------------------------------------------------
+
+
+
+PREAMBLE
+
+The goals of the Open Font License (OFL) are to stimulate worldwide
+
+development of collaborative font projects, to support the font creation
+
+efforts of academic and linguistic communities, and to provide a free and
+
+open framework in which fonts may be shared and improved in partnership
+
+with others.
+
+
+
+The OFL allows the licensed fonts to be used, studied, modified and
+
+redistributed freely as long as they are not sold by themselves. The
+
+fonts, including any derivative works, can be bundled, embedded, 
+
+redistributed and/or sold with any software provided that any reserved
+
+names are not used by derivative works. The fonts and derivatives,
+
+however, cannot be released under any other type of license. The
+
+requirement for fonts to remain under this license does not apply
+
+to any document created using the fonts or their derivatives.
+
+
+
+DEFINITIONS
+
+"Font Software" refers to the set of files released by the Copyright
+
+Holder(s) under this license and clearly marked as such. This may
+
+include source files, build scripts and documentation.
+
+
+
+"Reserved Font Name" refers to any names specified as such after the
+
+copyright statement(s).
+
+
+
+"Original Version" refers to the collection of Font Software components as
+
+distributed by the Copyright Holder(s).
+
+
+
+"Modified Version" refers to any derivative made by adding to, deleting,
+
+or substituting -- in part or in whole -- any of the components of the
+
+Original Version, by changing formats or by porting the Font Software to a
+
+new environment.
+
+
+
+"Author" refers to any designer, engineer, programmer, technical
+
+writer or other person who contributed to the Font Software.
+
+
+
+PERMISSION & CONDITIONS
+
+Permission is hereby granted, free of charge, to any person obtaining
+
+a copy of the Font Software, to use, study, copy, merge, embed, modify,
+
+redistribute, and sell modified and unmodified copies of the Font
+
+Software, subject to the following conditions:
+
+
+
+1) Neither the Font Software nor any of its individual components,
+
+in Original or Modified Versions, may be sold by itself.
+
+
+
+2) Original or Modified Versions of the Font Software may be bundled,
+
+redistributed and/or sold with any software, provided that each copy
+
+contains the above copyright notice and this license. These can be
+
+included either as stand-alone text files, human-readable headers or
+
+in the appropriate machine-readable metadata fields within text or
+
+binary files as long as those fields can be easily viewed by the user.
+
+
+
+3) No Modified Version of the Font Software may use the Reserved Font
+
+Name(s) unless explicit written permission is granted by the corresponding
+
+Copyright Holder. This restriction only applies to the primary font name as
+
+presented to the users.
+
+
+
+4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font
+
+Software shall not be used to promote, endorse or advertise any
+
+Modified Version, except to acknowledge the contribution(s) of the
+
+Copyright Holder(s) and the Author(s) or with their explicit written
+
+permission.
+
+
+
+5) The Font Software, modified or unmodified, in part or in whole,
+
+must be distributed entirely under this license, and must not be
+
+distributed under any other license. The requirement for fonts to
+
+remain under this license does not apply to any document created
+
+using the Font Software.
+
+
+
+TERMINATION
+
+This license becomes null and void if any of the above conditions are
+
+not met.
+
+
+
+DISCLAIMER
+
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
+
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
+
+OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE
+
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+
+INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
+
+DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+
+FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
+
+OTHER DEALINGS IN THE FONT SOFTWARE.]]></string>
+	<key>com.schriftgestaltung.font.licenseURL</key>
+	<string><![CDATA[http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL]]></string>
+	<key>com.schriftgestaltung.font.userData</key>
+	<dict>
+		<key>GSDimensionPlugin.Dimensions</key>
+		<dict>
+			<key>3BF888B6-F1E5-4C4E-A417-A1F2F5FF24CA</key>
+			<dict>
+				<key>HH</key>
+				<integer>33</integer>
+				<key>HV</key>
+				<integer>140</integer>
+				<key>OH</key>
+				<integer>35</integer>
+				<key>OV</key>
+				<integer>153</integer>
+				<key>nV</key>
+				<integer>117</integer>
+				<key>nd</key>
+				<integer>65</integer>
+			</dict>
+			<key>BD647A82-329A-4004-812E-9CBC2DAE5B44</key>
+			<dict>
+				<key>HH</key>
+				<integer>28</integer>
+				<key>HV</key>
+				<integer>90</integer>
+				<key>OH</key>
+				<integer>27</integer>
+				<key>OV</key>
+				<integer>100</integer>
+				<key>nV</key>
+				<integer>67</integer>
+				<key>nd</key>
+				<integer>50</integer>
+				<key>oH</key>
+				<integer>24</integer>
+				<key>oV</key>
+				<integer>76</integer>
+				<key>tH</key>
+				<integer>28</integer>
+			</dict>
+		</dict>
+	</dict>
+	<key>com.schriftgestaltung.fontMasterID</key>
+	<string>3BF888B6-F1E5-4C4E-A417-A1F2F5FF24CA</string>
+	<key>com.schriftgestaltung.glyphOrder</key>
+	<false/>
+	<key>com.schriftgestaltung.master.name</key>
+	<string>Bold</string>
+	<key>com.schriftgestaltung.useNiceNames</key>
+	<false/>
+	<key>com.schriftgestaltung.widthValue</key>
+	<integer>0</integer>
+	<key>public.glyphOrder</key>
+	<array>
+		<string>A</string>
+		<string>Aacute</string>
+		<string>Abreve</string>
+		<string>Acircumflex</string>
+		<string>Adieresis</string>
+		<string>Agrave</string>
+		<string>Amacron</string>
+		<string>Aogonek</string>
+		<string>Aring</string>
+		<string>Atilde</string>
+		<string>AE</string>
+		<string>B</string>
+		<string>C</string>
+		<string>Cacute</string>
+		<string>Ccaron</string>
+		<string>Ccedilla</string>
+		<string>Cdotaccent</string>
+		<string>D</string>
+		<string>Eth</string>
+		<string>Dcaron</string>
+		<string>Dcroat</string>
+		<string>E</string>
+		<string>Eacute</string>
+		<string>Ecaron</string>
+		<string>Ecircumflex</string>
+		<string>Edieresis</string>
+		<string>Edotaccent</string>
+		<string>Egrave</string>
+		<string>Emacron</string>
+		<string>Eogonek</string>
+		<string>F</string>
+		<string>G</string>
+		<string>Gbreve</string>
+		<string>Gcommaaccent</string>
+		<string>Gdotaccent</string>
+		<string>H</string>
+		<string>Hbar</string>
+		<string>I</string>
+		<string>Iacute</string>
+		<string>Icircumflex</string>
+		<string>Idieresis</string>
+		<string>Idotaccent</string>
+		<string>Igrave</string>
+		<string>Imacron</string>
+		<string>Iogonek</string>
+		<string>J</string>
+		<string>Jcircumflex</string>
+		<string>K</string>
+		<string>Kcommaaccent</string>
+		<string>L</string>
+		<string>Lacute</string>
+		<string>Lcaron</string>
+		<string>Lcommaaccent</string>
+		<string>Lslash</string>
+		<string>M</string>
+		<string>N</string>
+		<string>Nacute</string>
+		<string>Ncaron</string>
+		<string>Ncommaaccent</string>
+		<string>Eng</string>
+		<string>Ntilde</string>
+		<string>O</string>
+		<string>Oacute</string>
+		<string>Ocircumflex</string>
+		<string>Odieresis</string>
+		<string>Ograve</string>
+		<string>Ohungarumlaut</string>
+		<string>Omacron</string>
+		<string>Oslash</string>
+		<string>Otilde</string>
+		<string>OE</string>
+		<string>P</string>
+		<string>Thorn</string>
+		<string>Q</string>
+		<string>R</string>
+		<string>Racute</string>
+		<string>Rcaron</string>
+		<string>Rcommaaccent</string>
+		<string>S</string>
+		<string>Sacute</string>
+		<string>Scaron</string>
+		<string>Scedilla</string>
+		<string>Scommaaccent</string>
+		<string>T</string>
+		<string>Tbar</string>
+		<string>Tcaron</string>
+		<string>Tcedilla</string>
+		<string>Tcommaaccent</string>
+		<string>U</string>
+		<string>Uacute</string>
+		<string>Ucircumflex</string>
+		<string>Udieresis</string>
+		<string>Ugrave</string>
+		<string>Uhungarumlaut</string>
+		<string>Umacron</string>
+		<string>Uogonek</string>
+		<string>Uring</string>
+		<string>V</string>
+		<string>W</string>
+		<string>Wacute</string>
+		<string>Wcircumflex</string>
+		<string>Wdieresis</string>
+		<string>Wgrave</string>
+		<string>X</string>
+		<string>Y</string>
+		<string>Yacute</string>
+		<string>Ycircumflex</string>
+		<string>Ydieresis</string>
+		<string>Ygrave</string>
+		<string>Z</string>
+		<string>Zacute</string>
+		<string>Zcaron</string>
+		<string>Zdotaccent</string>
+		<string>a</string>
+		<string>aacute</string>
+		<string>abreve</string>
+		<string>acircumflex</string>
+		<string>adieresis</string>
+		<string>agrave</string>
+		<string>amacron</string>
+		<string>aogonek</string>
+		<string>aring</string>
+		<string>atilde</string>
+		<string>ae</string>
+		<string>b</string>
+		<string>c</string>
+		<string>cacute</string>
+		<string>ccaron</string>
+		<string>ccedilla</string>
+		<string>cdotaccent</string>
+		<string>d</string>
+		<string>eth</string>
+		<string>dcaron</string>
+		<string>dcroat</string>
+		<string>e</string>
+		<string>eacute</string>
+		<string>ecaron</string>
+		<string>ecircumflex</string>
+		<string>edieresis</string>
+		<string>edotaccent</string>
+		<string>egrave</string>
+		<string>emacron</string>
+		<string>eogonek</string>
+		<string>f</string>
+		<string>g</string>
+		<string>gbreve</string>
+		<string>gcommaaccent</string>
+		<string>gdotaccent</string>
+		<string>h</string>
+		<string>hbar</string>
+		<string>i</string>
+		<string>dotlessi</string>
+		<string>iacute</string>
+		<string>icircumflex</string>
+		<string>idieresis</string>
+		<string>idotaccent</string>
+		<string>igrave</string>
+		<string>imacron</string>
+		<string>iogonek</string>
+		<string>j</string>
+		<string>jdotless</string>
+		<string>jcircumflex</string>
+		<string>k</string>
+		<string>kcommaaccent</string>
+		<string>l</string>
+		<string>lacute</string>
+		<string>lcaron</string>
+		<string>lcommaaccent</string>
+		<string>lslash</string>
+		<string>m</string>
+		<string>n</string>
+		<string>nacute</string>
+		<string>ncaron</string>
+		<string>ncommaaccent</string>
+		<string>eng</string>
+		<string>ntilde</string>
+		<string>o</string>
+		<string>oacute</string>
+		<string>ocircumflex</string>
+		<string>odieresis</string>
+		<string>ograve</string>
+		<string>ohungarumlaut</string>
+		<string>omacron</string>
+		<string>oslash</string>
+		<string>otilde</string>
+		<string>oe</string>
+		<string>p</string>
+		<string>thorn</string>
+		<string>q</string>
+		<string>r</string>
+		<string>racute</string>
+		<string>rcaron</string>
+		<string>rcommaaccent</string>
+		<string>s</string>
+		<string>sacute</string>
+		<string>scaron</string>
+		<string>scedilla</string>
+		<string>scommaaccent</string>
+		<string>germandbls</string>
+		<string>longs</string>
+		<string>t</string>
+		<string>tbar</string>
+		<string>tcaron</string>
+		<string>tcedilla</string>
+		<string>tcommaaccent</string>
+		<string>u</string>
+		<string>uacute</string>
+		<string>ucircumflex</string>
+		<string>udieresis</string>
+		<string>ugrave</string>
+		<string>uhungarumlaut</string>
+		<string>umacron</string>
+		<string>uogonek</string>
+		<string>uring</string>
+		<string>v</string>
+		<string>w</string>
+		<string>wacute</string>
+		<string>wcircumflex</string>
+		<string>wdieresis</string>
+		<string>wgrave</string>
+		<string>x</string>
+		<string>y</string>
+		<string>yacute</string>
+		<string>ycircumflex</string>
+		<string>ydieresis</string>
+		<string>ygrave</string>
+		<string>z</string>
+		<string>zacute</string>
+		<string>zcaron</string>
+		<string>zdotaccent</string>
+		<string>c_t</string>
+		<string>f_b</string>
+		<string>f_f</string>
+		<string>f_f_i</string>
+		<string>f_f_l</string>
+		<string>f_h</string>
+		<string>f_j</string>
+		<string>f_t</string>
+		<string>fi</string>
+		<string>fl</string>
+		<string>s_t</string>
+		<string>a.sc</string>
+		<string>aacute.sc</string>
+		<string>abreve.sc</string>
+		<string>acircumflex.sc</string>
+		<string>adieresis.sc</string>
+		<string>agrave.sc</string>
+		<string>amacron.sc</string>
+		<string>aogonek.sc</string>
+		<string>aring.sc</string>
+		<string>atilde.sc</string>
+		<string>ae.sc</string>
+		<string>b.sc</string>
+		<string>c.sc</string>
+		<string>cacute.sc</string>
+		<string>ccaron.sc</string>
+		<string>ccedilla.sc</string>
+		<string>cdotaccent.sc</string>
+		<string>d.sc</string>
+		<string>eth.sc</string>
+		<string>dcaron.sc</string>
+		<string>dcroat.sc</string>
+		<string>e.sc</string>
+		<string>eacute.sc</string>
+		<string>ecaron.sc</string>
+		<string>ecircumflex.sc</string>
+		<string>edieresis.sc</string>
+		<string>edotaccent.sc</string>
+		<string>egrave.sc</string>
+		<string>emacron.sc</string>
+		<string>eogonek.sc</string>
+		<string>f.sc</string>
+		<string>g.sc</string>
+		<string>gbreve.sc</string>
+		<string>gcommaaccent.sc</string>
+		<string>gdotaccent.sc</string>
+		<string>h.sc</string>
+		<string>hbar.sc</string>
+		<string>i.sc</string>
+		<string>iacute.sc</string>
+		<string>icircumflex.sc</string>
+		<string>idieresis.sc</string>
+		<string>idotaccent.sc</string>
+		<string>igrave.sc</string>
+		<string>imacron.sc</string>
+		<string>iogonek.sc</string>
+		<string>j.sc</string>
+		<string>jcircumflex.sc</string>
+		<string>k.sc</string>
+		<string>kcommaaccent.sc</string>
+		<string>l.sc</string>
+		<string>lacute.sc</string>
+		<string>lcaron.sc</string>
+		<string>lcommaaccent.sc</string>
+		<string>lslash.sc</string>
+		<string>m.sc</string>
+		<string>n.sc</string>
+		<string>nacute.sc</string>
+		<string>ncaron.sc</string>
+		<string>ncommaaccent.sc</string>
+		<string>eng.sc</string>
+		<string>ntilde.sc</string>
+		<string>o.sc</string>
+		<string>oacute.sc</string>
+		<string>ocircumflex.sc</string>
+		<string>odieresis.sc</string>
+		<string>ograve.sc</string>
+		<string>ohungarumlaut.sc</string>
+		<string>omacron.sc</string>
+		<string>oslash.sc</string>
+		<string>otilde.sc</string>
+		<string>oe.sc</string>
+		<string>p.sc</string>
+		<string>thorn.sc</string>
+		<string>q.sc</string>
+		<string>r.sc</string>
+		<string>racute.sc</string>
+		<string>rcaron.sc</string>
+		<string>rcommaaccent.sc</string>
+		<string>s.sc</string>
+		<string>sacute.sc</string>
+		<string>scaron.sc</string>
+		<string>scedilla.sc</string>
+		<string>scommaaccent.sc</string>
+		<string>t.sc</string>
+		<string>tbar.sc</string>
+		<string>tcaron.sc</string>
+		<string>tcedilla.sc</string>
+		<string>tcommaaccent.sc</string>
+		<string>u.sc</string>
+		<string>uacute.sc</string>
+		<string>ucircumflex.sc</string>
+		<string>udieresis.sc</string>
+		<string>ugrave.sc</string>
+		<string>uhungarumlaut.sc</string>
+		<string>umacron.sc</string>
+		<string>uogonek.sc</string>
+		<string>uring.sc</string>
+		<string>v.sc</string>
+		<string>w.sc</string>
+		<string>wacute.sc</string>
+		<string>wcircumflex.sc</string>
+		<string>wdieresis.sc</string>
+		<string>wgrave.sc</string>
+		<string>x.sc</string>
+		<string>y.sc</string>
+		<string>yacute.sc</string>
+		<string>ycircumflex.sc</string>
+		<string>ydieresis.sc</string>
+		<string>ygrave.sc</string>
+		<string>z.sc</string>
+		<string>zacute.sc</string>
+		<string>zcaron.sc</string>
+		<string>zdotaccent.sc</string>
+		<string>ordfeminine</string>
+		<string>ordmasculine</string>
+		<string>Delta</string>
+		<string>Omega</string>
+		<string>uni03BC</string>
+		<string>pi</string>
+		<string>zero</string>
+		<string>one</string>
+		<string>two</string>
+		<string>three</string>
+		<string>four</string>
+		<string>five</string>
+		<string>six</string>
+		<string>seven</string>
+		<string>eight</string>
+		<string>nine</string>
+		<string>zero.onum</string>
+		<string>one.onum</string>
+		<string>two.onum</string>
+		<string>three.onum</string>
+		<string>four.onum</string>
+		<string>five.onum</string>
+		<string>six.onum</string>
+		<string>seven.onum</string>
+		<string>eight.onum</string>
+		<string>nine.onum</string>
+		<string>onesuperior</string>
+		<string>twosuperior</string>
+		<string>threesuperior</string>
+		<string>fraction</string>
+		<string>onehalf</string>
+		<string>onequarter</string>
+		<string>threequarters</string>
+		<string>asterisk</string>
+		<string>backslash</string>
+		<string>periodcentered</string>
+		<string>bullet</string>
+		<string>colon</string>
+		<string>comma</string>
+		<string>ellipsis</string>
+		<string>exclam</string>
+		<string>exclamdown</string>
+		<string>numbersign</string>
+		<string>period</string>
+		<string>question</string>
+		<string>questiondown</string>
+		<string>quotedbl</string>
+		<string>quotesingle</string>
+		<string>semicolon</string>
+		<string>slash</string>
+		<string>underscore</string>
+		<string>braceleft</string>
+		<string>braceright</string>
+		<string>bracketleft</string>
+		<string>bracketright</string>
+		<string>parenleft</string>
+		<string>parenright</string>
+		<string>emdash</string>
+		<string>endash</string>
+		<string>hyphen</string>
+		<string>uni00AD</string>
+		<string>guillemotleft</string>
+		<string>guillemotright</string>
+		<string>guilsinglleft</string>
+		<string>guilsinglright</string>
+		<string>quotedblbase</string>
+		<string>quotedblleft</string>
+		<string>quotedblright</string>
+		<string>quoteleft</string>
+		<string>quoteright</string>
+		<string>quotesinglbase</string>
+		<string>space</string>
+		<string>uni00A0</string>
+		<string>.notdef</string>
+		<string>Euro</string>
+		<string>cent</string>
+		<string>currency</string>
+		<string>dollar</string>
+		<string>florin</string>
+		<string>sterling</string>
+		<string>yen</string>
+		<string>plus</string>
+		<string>minus</string>
+		<string>multiply</string>
+		<string>divide</string>
+		<string>equal</string>
+		<string>notequal</string>
+		<string>greater</string>
+		<string>less</string>
+		<string>greaterequal</string>
+		<string>lessequal</string>
+		<string>plusminus</string>
+		<string>approxequal</string>
+		<string>asciitilde</string>
+		<string>logicalnot</string>
+		<string>infinity</string>
+		<string>integral</string>
+		<string>product</string>
+		<string>summation</string>
+		<string>radical</string>
+		<string>mu</string>
+		<string>partialdiff</string>
+		<string>percent</string>
+		<string>perthousand</string>
+		<string>uni2215</string>
+		<string>uni2219</string>
+		<string>lozenge</string>
+		<string>at</string>
+		<string>ampersand</string>
+		<string>paragraph</string>
+		<string>section</string>
+		<string>copyright</string>
+		<string>registered</string>
+		<string>trademark</string>
+		<string>degree</string>
+		<string>bar</string>
+		<string>brokenbar</string>
+		<string>dagger</string>
+		<string>daggerdbl</string>
+		<string>asciicircum</string>
+		<string>dieresiscomb</string>
+		<string>dotaccentcomb</string>
+		<string>gravecomb</string>
+		<string>acutecomb</string>
+		<string>hungarumlautcomb</string>
+		<string>caroncomb.alt</string>
+		<string>circumflexcomb</string>
+		<string>caroncomb</string>
+		<string>brevecomb</string>
+		<string>ringcomb</string>
+		<string>tildecomb</string>
+		<string>macroncomb</string>
+		<string>commaturnedabovecomb</string>
+		<string>commaaccentcomb</string>
+		<string>cedillacomb</string>
+		<string>ogonekcomb</string>
+		<string>dieresiscomb.case</string>
+		<string>dotaccentcomb.case</string>
+		<string>gravecomb.case</string>
+		<string>acutecomb.case</string>
+		<string>hungarumlautcomb.case</string>
+		<string>circumflexcomb.case</string>
+		<string>caroncomb.case</string>
+		<string>brevecomb.case</string>
+		<string>ringcomb.case</string>
+		<string>tildecomb.case</string>
+		<string>macroncomb.case</string>
+		<string>uni02C9</string>
+		<string>acute</string>
+		<string>breve</string>
+		<string>caron</string>
+		<string>cedilla</string>
+		<string>circumflex</string>
+		<string>dieresis</string>
+		<string>dotaccent</string>
+		<string>grave</string>
+		<string>hungarumlaut</string>
+		<string>macron</string>
+		<string>ogonek</string>
+		<string>ring</string>
+		<string>tilde</string>
+		<string>tilde.sc</string>
+	</array>
+</dict>
+</plist>

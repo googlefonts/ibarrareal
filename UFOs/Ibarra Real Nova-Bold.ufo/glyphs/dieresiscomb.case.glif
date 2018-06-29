@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresiscomb.case" format="1">
+  <advance width="570"/>
+  <outline>
+    <component base="dieresiscomb" yOffset="177"/>
+    <contour>
+      <point x="285" y="690" type="move" name="_topcase"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-06-10 09:04:10 +0000</string>
+    </dict>
+  </lib>
+</glyph>

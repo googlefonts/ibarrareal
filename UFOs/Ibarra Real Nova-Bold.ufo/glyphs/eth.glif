@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eth" format="1">
+  <advance width="547"/>
+  <unicode hex="00F0"/>
+  <outline>
+    <contour>
+      <point x="255" y="465" type="line"/>
+      <point x="542" y="593" type="line"/>
+      <point x="524" y="630" type="line"/>
+      <point x="237" y="503" type="line"/>
+    </contour>
+    <component base="partialdiff"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015-08-27 12:26:29 +0000</string>
+    </dict>
+  </lib>
+</glyph>
