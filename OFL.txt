@@ -1,11 +1,4 @@
-Copyright (c) <2007>, <José María Ribagorda> (<www.ibarrareal.es>),
-
-with Reserved Font Name <Ibarra Real>.
-
-Copyright (c) <2014>, <José Maria Ribagorda & Octavio Pardo> (<www.ibarrareal.es & www.octaviopardo.com>),
-
-with Reserved Font Name <Ibarra Real>.
-
+Copyright (c) 2007 The Ibarra Real Authors.
 
 -----------------------------------------------------------
 SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
