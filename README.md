@@ -1,5 +1,7 @@
 # Ibarra Real Fonts
 
+![sample](docs/sample.png)
+
 This font is the fruit of a wider initiative dating back to 2007, when Calcografía Nacional (Spain’s national and historical engraving workshop) organised a project directed by José María Ribagorda focusing on and highlighting Spain’s typographic heritage, with the support of Spain’s Ministry for Industry.
 
 Nowadays, nobody questions the significance and growth of the Spanish language as a tool for communication between different countries and cultures around the world, and the intangible capital as well as the economic impact involved in the use of signs that could be recognised as belonging to our cultural heritage. 
