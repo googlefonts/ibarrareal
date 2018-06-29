@@ -15,3 +15,7 @@ Before reaching this stage, José María Ribagorda decided in 2015 that the firs
 The first release of the project included not only characters, but also ornaments made by celebrated Latin-American and Spanish designers: Manuel Alvarez Junco, Andreu Balius Planelles, Didac Ballester, Paco Bascunan, Jose Maria Cerezo, Alberto Corazon, Oyer Corazon, Pablo Cosgaya, Ruben Fontana, Javier Garcia del Olmo Jose Gil Nogues, Pepe Gimeno, Fernando Gutierrez, Juan Martinez, Laura Meseguer, Juan Antonio Moreno, Juan Nava, Miguel Ochando, Joseph Patau Bellart, Alejandro Paul, Marc Salinas, Emilio Torne, Alex Trochut, Roberto Turegano Moratalla. 
 
 This second version has been Revised, Opened, and Extended, or as it would be in Spanish, "Revisada, Abierta y Extendida." Also the ornaments of the first version have not been incorporated, but may be included in a future update when their authors allow them to be distributed under the SIL Open Font License.
+
+[@jmribagorda](https://github.com/jmribagorda)
+[@octaviopardo](http://github.com/octaviopardo)
+
