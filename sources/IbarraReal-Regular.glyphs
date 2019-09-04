@@ -1,5 +1,5 @@
 {
-.appVersion = "1153";
+.appVersion = "1264";
 DisplayStrings = (
 "6/endash 0123456789"
 );
@@ -12626,13 +12626,13 @@ unicode = 0111;
 },
 {
 glyphname = e;
-lastChange = "2015-08-06 19:39:50 +0000";
+lastChange = "2019-09-04 06:25:02 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{287, -50}";
+position = "{253, -50}";
 },
 {
 name = top;
@@ -12730,7 +12730,7 @@ width = 449;
 anchors = (
 {
 name = bottom;
-position = "{258, -50}";
+position = "{222, -50}";
 },
 {
 name = top;
@@ -13034,7 +13034,7 @@ unicode = 0113;
 },
 {
 glyphname = eogonek;
-lastChange = "2015-08-06 16:19:21 +0000";
+lastChange = "2019-09-04 06:25:02 +0000";
 layers = (
 {
 components = (
@@ -13043,7 +13043,7 @@ name = e;
 },
 {
 name = ogonekcomb;
-transform = "{1, 0, 0, 1, 13, 0}";
+transform = "{1, 0, 0, 1, -21, 0}";
 }
 );
 layerId = "BD647A82-329A-4004-812E-9CBC2DAE5B44";
@@ -13056,6 +13056,7 @@ name = e;
 },
 {
 name = ogonekcomb;
+transform = "{1, 0, 0, 1, -36, 0}";
 }
 );
 layerId = "3BF888B6-F1E5-4C4E-A417-A1F2F5FF24CA";

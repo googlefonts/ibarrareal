@@ -1,9 +1,5 @@
 {
-.appVersion = "1153";
-DisplayStrings = (
-"0123456789",
-"Ç/Dcroat/Gcommaaccent ç/iogonek/rcommaaccent"
-);
+.appVersion = "1264";
 classes = (
 {
 code = "at bracketleft bracketright parenleft parenright braceleft braceright guillemotleft guillemotright guilsinglleft guilsinglright endash emdash";
@@ -13270,7 +13266,7 @@ unicode = 0113;
 },
 {
 glyphname = eogonek;
-lastChange = "2015-12-06 18:59:19 +0000";
+lastChange = "2019-09-04 06:25:59 +0000";
 layers = (
 {
 components = (
@@ -13292,7 +13288,7 @@ name = e;
 },
 {
 name = ogonekcomb;
-transform = "{1, 0, 0, 1, -74, 0}";
+transform = "{1, 0, 0, 1, -101, 0}";
 }
 );
 layerId = "B3FC2A1D-D4D8-43EF-896F-5E7A9998234E";
