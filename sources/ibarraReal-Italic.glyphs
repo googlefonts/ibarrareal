@@ -126,7 +126,27 @@ value = -250;
 },
 {
 name = typoLineGap;
-value = 49;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 750;
+},
+{
+name = hheaDescender;
+value = -250;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1100;
+},
+{
+name = typoDescender;
+value = 400;
 }
 );
 descender = -250;
@@ -184,6 +204,10 @@ value = -250;
 {
 name = typoLineGap;
 value = 49;
+},
+{
+name = hheaAscender;
+value = "New Value";
 }
 );
 descender = -250;
