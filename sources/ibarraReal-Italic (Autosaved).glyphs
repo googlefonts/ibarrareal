@@ -63646,7 +63646,8 @@ instanceInterpolations = {
 "A0758A2D-FE5C-4D8D-B7A5-83FAC1CB14BB" = 0.4;
 "B3FC2A1D-D4D8-43EF-896F-5E7A9998234E" = 0.6;
 };
-linkStyle = Semibold;
+isItalic = 1;
+linkStyle = SemiBold;
 name = "SemiBold Italic";
 weightClass = SemiBold;
 },
