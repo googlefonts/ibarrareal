@@ -53,6 +53,10 @@ value = "This font is fruit of a wider initiative dating back to 2007, when Calc
 name = fsType;
 value = (
 );
+},
+{
+name = "Disable Subroutines";
+value = 1;
 }
 );
 date = "2019-09-13 00:13:16 +0000";
