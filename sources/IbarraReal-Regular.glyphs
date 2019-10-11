@@ -6,7 +6,13 @@ DisplayStrings = (
 "AA/ogonekcomb/Aogonek E/Eogonek I/Iogonek U/ogonekcomb/Uogonek",
 "/ogonekcomb a/aogonek e/eogonek/idotless/idotless/iogonek u/uogonek/aogonek.sc/eogonek.sc/iogonek.sc/uogonek.sc",
 "/c_t  /f_b  /f_f  /f_f_i  /f_f_l  /f_h  /f_j  /f_t  /fi  /fl  /s_t \012ct fb ff ffi ffl fh fj ft fi fl st",
-"1H¹H²H³H/foursuperior H\012nn¹n²n³n/foursuperior nn\012oo¹o²o³o/foursuperior oo"
+"1H¹H²H³H/foursuperior H\012nn¹n²n³n/foursuperior nn\012oo¹o²o³o/foursuperior oo",
+Q,
+w,
+"/icircumflex.sc",
+"/greaterequal/lessequal",
+"/greaterequal",
+">"
 );
 classes = (
 {
@@ -55559,7 +55565,7 @@ unicode = 2260;
 {
 color = 4;
 glyphname = greater;
-lastChange = "2015-07-24 11:24:57 +0000";
+lastChange = "2019-10-11 02:30:25 +0000";
 layers = (
 {
 background = {
@@ -55582,13 +55588,13 @@ paths = (
 {
 closed = 1;
 nodes = (
+"75 137 LINE",
+"450 315 LINE",
 "449 353 LINE",
 "75 529 LINE",
 "75 484 LINE",
 "409 334 LINE",
-"75 183 LINE",
-"75 137 LINE",
-"450 315 LINE"
+"75 183 LINE"
 );
 }
 );
@@ -55630,13 +55636,13 @@ paths = (
 {
 closed = 1;
 nodes = (
+"68 126 LINE",
+"493 325 LINE",
 "492 343 LINE",
 "68 540 LINE",
 "68 479 LINE",
 "385 334 LINE",
-"68 188 LINE",
-"68 126 LINE",
-"493 325 LINE"
+"68 188 LINE"
 );
 }
 );
@@ -55678,7 +55684,7 @@ unicode = 003C;
 {
 color = 4;
 glyphname = greaterequal;
-lastChange = "2015-07-24 11:24:32 +0000";
+lastChange = "2019-10-11 02:15:39 +0000";
 layers = (
 {
 background = {
@@ -55703,14 +55709,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"75 259 LINE",
-"75 217 LINE",
 "450 353 LINE",
 "451 395 LINE",
 "76 531 LINE",
 "76 489 LINE",
 "432 370 LINE",
-"432 379 LINE"
+"432 379 LINE",
+"75 259 LINE",
+"75 217 LINE"
 );
 }
 );
