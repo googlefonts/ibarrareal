@@ -4,6 +4,8 @@
 
 This font is the fruit of a wider initiative dating back to 2007, when Calcografía Nacional (Spain’s national and historical engraving workshop) organised a project directed by José María Ribagorda focusing on and highlighting Spain’s typographic heritage, with the support of Spain’s Ministry for Industry.
 
+This project included the recovery of the types designed by Geronimo Gil for the edition of the most beautiful "Quixote" never edited. Printed by Joaquín Ibarra for the “Real Academia de la Lengua” in 1780. This font was called “Ibarra Real”. 
+
 Nowadays, nobody questions the significance and growth of the Spanish language as a tool for communication between different countries and cultures around the world, and the intangible capital as well as the economic impact involved in the use of signs that could be recognised as belonging to our cultural heritage. 
 
 This project is aimed at filling an important gap, for the myriad of texts now written in the Spanish-speaking community use font types created in other cultural milieus. This is why we believe it is important, as our language becomes more relevant, to associate this reality with the recovery of the Imprenta Real types that were developed in Spain in the eighteenth century. Thus we will be able to make them better known, making them more accessible by means of the digital media available to us now. 
@@ -18,4 +20,3 @@ This second version has been Revised, Opened, and Extended, or as it would be in
 
 [@jmribagorda](https://github.com/jmribagorda)
 [@octaviopardo](http://github.com/octaviopardo)
-
