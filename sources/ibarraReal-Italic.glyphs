@@ -69,6 +69,10 @@ value = (
 {
 name = "Disable Subroutines";
 value = 1;
+},
+{
+name = "Use Typo Metrics";
+value = 1;
 }
 );
 date = "2019-09-13 00:13:16 +0000";
