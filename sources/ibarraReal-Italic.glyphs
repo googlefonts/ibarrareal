@@ -3,7 +3,7 @@
 DisplayStrings = (
 "Ó  ",
 "/c_t  /f_b  /f_f  /f_f_i  /f_f_l  /f_h  /f_j  /f_t  /fi  /fl  /s_t \012ct fb ff ffi ffl fh fj ft fi fl st",
-"HHWHOWOOHHWOH\012WAFTING VATING OVO\012QUICK ZEPHYRS\012VEX BOLD JIM  \012zephyrs  nnynoyoo \012nxoeAHIFTJOhmrbpdqf\012nnynoyoonn\012ABCDEFGHIJKLMNOPQRSTUVWXYZ\012abcdefghijklmnopqrstuvwxyz",
+"HHWHOWOOHHWOH\012WAFTING VATING OVO\012QUICK ZEPHYRS\012VEX BOLD JIM  \012zephyrs  nnynoyoo \012nxoeAHIFTJOhmrbpdqf\012nnynoyoonn\012AeBCDEFGHIJKLMNOPQRSTUVWXYZ\012abcdefghijklmnopqrstuvwxyz",
 k,
 wa,
 "²",
@@ -215,16 +215,15 @@ position = "{562, 691}";
 }
 );
 horizontalStems = (
-24,
-27,
-34,
+25,
+35,
 50
 );
 id = "A0758A2D-FE5C-4D8D-B7A5-83FAC1CB14BB";
 italicAngle = 22;
 verticalStems = (
-62,
-92,
+65,
+90,
 110
 );
 weightValue = 0;
@@ -63730,21 +63729,22 @@ width = 600;
 );
 instances = (
 {
-interpolationWeight = 0;
+interpolationWeight = 65;
 interpolationWidth = 0;
 instanceInterpolations = {
-"A0758A2D-FE5C-4D8D-B7A5-83FAC1CB14BB" = 1;
+"A0758A2D-FE5C-4D8D-B7A5-83FAC1CB14BB" = 0.35;
+"B3FC2A1D-D4D8-43EF-896F-5E7A9998234E" = 0.65;
 };
 isItalic = 1;
 linkStyle = Regular;
 name = Italic;
 },
 {
-interpolationWeight = 60;
+interpolationWeight = 85;
 interpolationWidth = 0;
 instanceInterpolations = {
-"A0758A2D-FE5C-4D8D-B7A5-83FAC1CB14BB" = 0.4;
-"B3FC2A1D-D4D8-43EF-896F-5E7A9998234E" = 0.6;
+"A0758A2D-FE5C-4D8D-B7A5-83FAC1CB14BB" = 0.15;
+"B3FC2A1D-D4D8-43EF-896F-5E7A9998234E" = 0.85;
 };
 isItalic = 1;
 linkStyle = SemiBold;
@@ -63752,9 +63752,11 @@ name = "SemiBold Italic";
 weightClass = SemiBold;
 },
 {
+interpolationWeight = 105;
 interpolationWidth = 0;
 instanceInterpolations = {
-"B3FC2A1D-D4D8-43EF-896F-5E7A9998234E" = 1;
+"A0758A2D-FE5C-4D8D-B7A5-83FAC1CB14BB" = -0.05;
+"B3FC2A1D-D4D8-43EF-896F-5E7A9998234E" = 1.05;
 };
 isBold = 1;
 isItalic = 1;

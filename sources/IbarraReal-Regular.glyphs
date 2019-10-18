@@ -309,7 +309,7 @@ verticalStems = (
 140
 );
 weight = Bold;
-weightValue = 102;
+weightValue = 117;
 widthValue = 0;
 xHeight = 442;
 }
@@ -65065,30 +65065,30 @@ width = 600;
 );
 instances = (
 {
-interpolationWeight = 70;
+interpolationWeight = 75;
 interpolationWidth = 0;
 instanceInterpolations = {
-"3BF888B6-F1E5-4C4E-A417-A1F2F5FF24CA" = 0.08571;
-"BD647A82-329A-4004-812E-9CBC2DAE5B44" = 0.91429;
+"3BF888B6-F1E5-4C4E-A417-A1F2F5FF24CA" = 0.16;
+"BD647A82-329A-4004-812E-9CBC2DAE5B44" = 0.84;
 };
 name = Regular;
 },
 {
-interpolationWeight = 90;
+interpolationWeight = 95;
 interpolationWidth = 0;
 instanceInterpolations = {
-"3BF888B6-F1E5-4C4E-A417-A1F2F5FF24CA" = 0.65714;
-"BD647A82-329A-4004-812E-9CBC2DAE5B44" = 0.34286;
+"3BF888B6-F1E5-4C4E-A417-A1F2F5FF24CA" = 0.56;
+"BD647A82-329A-4004-812E-9CBC2DAE5B44" = 0.44;
 };
 name = SemiBold;
 weightClass = SemiBold;
 },
 {
-interpolationWeight = 110;
+interpolationWeight = 115;
 interpolationWidth = 0;
 instanceInterpolations = {
-"3BF888B6-F1E5-4C4E-A417-A1F2F5FF24CA" = 1.22857;
-"BD647A82-329A-4004-812E-9CBC2DAE5B44" = -0.22857;
+"3BF888B6-F1E5-4C4E-A417-A1F2F5FF24CA" = 0.96;
+"BD647A82-329A-4004-812E-9CBC2DAE5B44" = 0.04;
 };
 isBold = 1;
 linkStyle = Regular;
