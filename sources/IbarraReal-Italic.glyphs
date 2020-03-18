@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD:sources/ibarraReal-Italic.glyphs
 .appVersion = "1289";
+=======
+.appVersion = "1286";
+>>>>>>> QA-IbarraReal:sources/IbarraReal-Italic.glyphs
 DisplayStrings = (
 "Ó/nbspace/space",
 "/c_t/space/f_b/space/f_f/space/f_f_i/space/f_f_l/space/f_h/space/f_j/space/f_t/space/fi/space/fl/space/s_t \012ct/space fb/space ff/space ffi/space ffl/space fh/space fj/space ft/space fi/space fl/space st",
@@ -52,11 +56,11 @@ copyright = "Copyright 2007 The Ibarra Real Nova Project Authors (https://github
 customParameters = (
 {
 name = licenseURL;
-value = "http://scripts.sil.org/OFL";
+value = "https://scripts.sil.org/OFL";
 },
 {
 name = license;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
 },
 {
 name = note;
@@ -86,7 +90,7 @@ value = (
 );
 }
 );
-date = "2019-09-13 00:13:16 +0000";
+date = "2020-03-18 01:44:43 +0000";
 designer = "Jose Maria Ribagorda & Octavio Pardo";
 designerURL = "http://www.ibarrareal.es";
 disablesNiceNames = 1;
@@ -66682,5 +66686,5 @@ nV = 100;
 };
 };
 versionMajor = 1;
-versionMinor = 14;
+versionMinor = 15;
 }
