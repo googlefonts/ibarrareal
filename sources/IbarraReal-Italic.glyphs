@@ -63729,6 +63729,14 @@ width = 600;
 );
 instances = (
 {
+customParameters = (
+{
+name = "Disable autohinting for glyphs";
+value = (
+.notdef
+);
+}
+);
 interpolationWeight = 65;
 interpolationWidth = 0;
 instanceInterpolations = {
@@ -63740,6 +63748,14 @@ linkStyle = Regular;
 name = Italic;
 },
 {
+customParameters = (
+{
+name = "Disable autohinting for glyphs";
+value = (
+.notdef
+);
+}
+);
 interpolationWeight = 85;
 interpolationWidth = 0;
 instanceInterpolations = {
@@ -63752,6 +63768,14 @@ name = "SemiBold Italic";
 weightClass = SemiBold;
 },
 {
+customParameters = (
+{
+name = "Disable autohinting for glyphs";
+value = (
+.notdef
+);
+}
+);
 interpolationWeight = 105;
 interpolationWidth = 0;
 instanceInterpolations = {
