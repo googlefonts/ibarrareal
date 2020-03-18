@@ -1,5 +1,5 @@
 {
-.appVersion = "1230";
+.appVersion = "1286";
 DisplayStrings = (
 "Ó  ",
 "/c_t  /f_b  /f_f  /f_f_i  /f_f_l  /f_h  /f_j  /f_t  /fi  /fl  /s_t \012ct fb ff ffi ffl fh fj ft fi fl st",
@@ -52,11 +52,11 @@ copyright = "Copyright 2007 The Ibarra Real Nova Project Authors (https://github
 customParameters = (
 {
 name = licenseURL;
-value = "http://scripts.sil.org/OFL";
+value = "https://scripts.sil.org/OFL";
 },
 {
 name = license;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
 },
 {
 name = note;
@@ -80,7 +80,7 @@ name = "Enforce Compatibility Check";
 value = 1;
 }
 );
-date = "2019-09-13 00:13:16 +0000";
+date = "2020-03-18 01:44:43 +0000";
 designer = "Jose Maria Ribagorda & Octavio Pardo";
 designerURL = "http://www.ibarrareal.es";
 disablesNiceNames = 1;
@@ -66676,5 +66676,5 @@ nV = 100;
 };
 };
 versionMajor = 1;
-versionMinor = 14;
+versionMinor = 15;
 }
