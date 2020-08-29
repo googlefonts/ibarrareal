@@ -1,5 +1,5 @@
 {
-.appVersion = "1230";
+.appVersion = "1286";
 DisplayStrings = (
 "6/endash 0123456789",
 "/Iogonek",
@@ -17,8 +17,7 @@ w,
 "aá/abreve âäà/amacron/aogonek åãæbc/cacute/ccaron ç/cdotaccent dð/dcaron/dcroat eé/ecaron êë/edotaccent è/emacron/eogonek fg/gbreve/gcommaaccent/gdotaccent h/hbar i/idotless í",
 "aá/abreve âäà/amacron/aogonek åãæbc/cacute/ccaron ç/cdotaccent dð/dcaron/dcroat eé/ecaron êë/edotaccent è/emacron/eogonek fg/gbreve/gcommaaccent/gdotaccent h/hbar i/idotless íîï/idotaccent ì/imacron/iogonek j/jdotless/jcircumflex k/kcommaaccent l/lacute/lcaron/lcommaaccent/lslash mn/nacute/ncaron/ncommaaccent/eng ñoóôöò/ohungarumlaut/omacron øõ/oe pþqr/racute/rcaron/rcommaaccent s/sacute/scaron/scedilla/scommaaccent ß/longs t/tbar/tcaron/tcedilla/tcommaaccent uúûüù/uhungarumlaut/umacron/uogonek/uring vw/wacute/wcircumflex/wdieresis/wgrave xyý/ycircumflex/ydieresis/ygrave z/zacute/zcaron/zdotaccent",
 "/zero.onum/one.onum/two.onum/three.onum/four.onum/five.onum/six.onum/seven.onum/eight.onum/nine.onum",
-"/.notdef",
-n
+"/.notdef"
 );
 classes = (
 {
@@ -155,7 +154,6 @@ alignmentZones = (
 );
 ascender = 710;
 capHeight = 673;
-custom = RegularMaster;
 customParameters = (
 {
 name = typoAscender;
@@ -246,7 +244,6 @@ alignmentZones = (
 );
 ascender = 710;
 capHeight = 673;
-custom = Master;
 customParameters = (
 {
 name = typoAscender;
@@ -307,7 +304,6 @@ horizontalStems = (
 25
 );
 id = "3BF888B6-F1E5-4C4E-A417-A1F2F5FF24CA";
-name = BoldMaster;
 verticalStems = (
 117,
 128,
