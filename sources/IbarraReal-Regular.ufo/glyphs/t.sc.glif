@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="t.sc" format="2">
+  <advance width="620"/>
+  <anchor x="310" y="552" name="top"/>
+  <outline>
+    <contour>
+      <point x="167" y="0" type="line"/>
+      <point x="453" y="0" type="line"/>
+      <point x="452" y="14" type="line"/>
+      <point x="401" y="23" type="line" smooth="yes"/>
+      <point x="355" y="31"/>
+      <point x="348" y="37"/>
+      <point x="348" y="70" type="curve" smooth="yes"/>
+      <point x="348" y="519" type="line"/>
+      <point x="427" y="519" type="line"/>
+      <point x="510" y="519"/>
+      <point x="550" y="465"/>
+      <point x="571" y="397" type="curve"/>
+      <point x="589" y="397" type="line"/>
+      <point x="577" y="458"/>
+      <point x="573" y="494"/>
+      <point x="580" y="538" type="curve"/>
+      <point x="39" y="538" type="line"/>
+      <point x="46" y="494"/>
+      <point x="43" y="458"/>
+      <point x="31" y="397" type="curve"/>
+      <point x="49" y="397" type="line"/>
+      <point x="70" y="465"/>
+      <point x="110" y="519"/>
+      <point x="192" y="519" type="curve" smooth="yes"/>
+      <point x="272" y="519" type="line"/>
+      <point x="272" y="70" type="line" smooth="yes"/>
+      <point x="272" y="37"/>
+      <point x="265" y="31"/>
+      <point x="218" y="23" type="curve" smooth="yes"/>
+      <point x="167" y="14" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>18</integer>
+        <key>height</key>
+        <integer>80</integer>
+        <key>width</key>
+        <integer>84</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/03/17 12:16:04</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

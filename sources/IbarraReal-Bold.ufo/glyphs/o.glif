@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="o" format="2">
+  <advance width="501"/>
+  <unicode hex="006F"/>
+  <anchor x="250" y="470" name="top"/>
+  <outline>
+    <contour>
+      <point x="250" y="-8" type="curve" smooth="yes"/>
+      <point x="386" y="-8"/>
+      <point x="476" y="89"/>
+      <point x="476" y="226" type="curve" smooth="yes"/>
+      <point x="476" y="354"/>
+      <point x="386" y="451"/>
+      <point x="250" y="451" type="curve" smooth="yes"/>
+      <point x="115" y="451"/>
+      <point x="25" y="355"/>
+      <point x="25" y="218" type="curve" smooth="yes"/>
+      <point x="25" y="90"/>
+      <point x="115" y="-8"/>
+    </contour>
+    <contour>
+      <point x="251" y="24" type="curve" smooth="yes"/>
+      <point x="186" y="24"/>
+      <point x="153" y="94"/>
+      <point x="153" y="229" type="curve" smooth="yes"/>
+      <point x="153" y="360"/>
+      <point x="186" y="419"/>
+      <point x="249" y="419" type="curve" smooth="yes"/>
+      <point x="315" y="419"/>
+      <point x="348" y="350"/>
+      <point x="348" y="215" type="curve" smooth="yes"/>
+      <point x="348" y="84"/>
+      <point x="315" y="24"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/01/04 10:24:15</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lslash" format="2">
+  <advance width="269"/>
+  <unicode hex="0142"/>
+  <guideline x="33" y="269" angle="90"/>
+  <guideline x="235" y="301" angle="90"/>
+  <outline>
+    <contour>
+      <point x="33" y="256" type="line"/>
+      <point x="235" y="330" type="line"/>
+      <point x="235" y="372" type="line"/>
+      <point x="33" y="298" type="line"/>
+    </contour>
+    <component base="l"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/06 11:09:49</string>
+    </dict>
+  </lib>
+</glyph>

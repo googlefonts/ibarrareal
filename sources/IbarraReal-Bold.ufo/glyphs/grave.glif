@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="grave" format="2">
+  <advance width="563"/>
+  <unicode hex="0060"/>
+  <outline>
+    <component base="gravecomb" xOffset="-3"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=|acute</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|acute</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/06/05 10:51:39</string>
+    </dict>
+  </lib>
+</glyph>

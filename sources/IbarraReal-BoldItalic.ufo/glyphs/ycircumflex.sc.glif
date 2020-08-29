@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ycircumflex.sc" format="2">
+  <advance width="651"/>
+  <outline>
+    <component base="y.sc"/>
+    <component base="circumflexcomb" xOffset="113" yOffset="96"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/12/04 18:23:08</string>
+    </dict>
+  </lib>
+</glyph>

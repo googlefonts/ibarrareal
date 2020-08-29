@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="igrave.sc" format="2">
+  <advance width="370"/>
+  <outline>
+    <component base="i.sc"/>
+    <component base="gravecomb" xOffset="-124" yOffset="96"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/03/17 12:19:09</string>
+    </dict>
+  </lib>
+</glyph>

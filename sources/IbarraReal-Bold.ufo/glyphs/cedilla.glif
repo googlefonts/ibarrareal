@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cedilla" format="2">
+  <advance width="570"/>
+  <unicode hex="00B8"/>
+  <outline>
+    <component base="cedillacomb"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/06/03 22:33:24</string>
+    </dict>
+  </lib>
+</glyph>

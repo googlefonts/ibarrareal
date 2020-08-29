@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nine.onum" format="2">
+  <advance width="500"/>
+  <outline>
+    <component base="six.onum" xScale="-1" yScale="-1" xOffset="500" yOffset="426"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=|six.onum</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|six.onum</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018/03/01 12:24:23</string>
+    </dict>
+  </lib>
+</glyph>

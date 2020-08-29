@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="400" maximum="700" default="400">
+      <map input="400" output="67"/>
+      <map input="600" output="97"/>
+      <map input="700" output="117"/>
+    </axis>
+    <axis tag="wdth" name="Width" minimum="100" maximum="100" default="100">
+      <map input="100" output="0"/>
+    </axis>
+  </axes>
+  <sources>
+    <source filename="IbarraReal-Regular.ufo" name="Ibarra Real  Regular" familyname="Ibarra Real " stylename="Regular">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="67"/>
+        <dimension name="Width" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="IbarraReal-Bold.ufo" name="Ibarra Real  Bold" familyname="Ibarra Real " stylename="Bold">
+      <location>
+        <dimension name="Weight" xvalue="117"/>
+        <dimension name="Width" xvalue="0"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Ibarra Real Regular" familyname="Ibarra Real" stylename="Regular" filename="instance_ufos/IbarraReal-Regular.ufo">
+      <location>
+        <dimension name="Weight" xvalue="67"/>
+        <dimension name="Width" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Disable autohinting for glyphs</string>
+              <array>
+                <string>.notdef</string>
+              </array>
+            </array>
+          </array>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>BD647A82-329A-4004-812E-9CBC2DAE5B44</key>
+            <integer>1</integer>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Regular</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Ibarra Real SemiBold" familyname="Ibarra Real" stylename="SemiBold" filename="instance_ufos/IbarraReal-SemiBold.ufo">
+      <location>
+        <dimension name="Weight" xvalue="97"/>
+        <dimension name="Width" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Disable autohinting for glyphs</string>
+              <array>
+                <string>.notdef</string>
+              </array>
+            </array>
+          </array>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>3BF888B6-F1E5-4C4E-A417-A1F2F5FF24CA</key>
+            <real>0.6</real>
+            <key>BD647A82-329A-4004-812E-9CBC2DAE5B44</key>
+            <real>0.4</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>SemiBold</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Ibarra Real Bold" familyname="Ibarra Real " stylename="Bold" filename="instance_ufos/IbarraReal-Bold.ufo" stylemapfamilyname="Ibarra Real" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="117"/>
+        <dimension name="Width" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Disable autohinting for glyphs</string>
+              <array>
+                <string>.notdef</string>
+              </array>
+            </array>
+          </array>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>3BF888B6-F1E5-4C4E-A417-A1F2F5FF24CA</key>
+            <integer>1</integer>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Bold</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>GSDimensionPlugin.Dimensions</key>
+      <dict>
+        <key>3BF888B6-F1E5-4C4E-A417-A1F2F5FF24CA</key>
+        <dict>
+          <key>HH</key>
+          <integer>33</integer>
+          <key>HV</key>
+          <integer>140</integer>
+          <key>OH</key>
+          <integer>35</integer>
+          <key>OV</key>
+          <integer>153</integer>
+          <key>nV</key>
+          <integer>117</integer>
+          <key>nd</key>
+          <integer>65</integer>
+        </dict>
+        <key>BD647A82-329A-4004-812E-9CBC2DAE5B44</key>
+        <dict>
+          <key>HH</key>
+          <integer>28</integer>
+          <key>HV</key>
+          <integer>90</integer>
+          <key>OH</key>
+          <integer>27</integer>
+          <key>OV</key>
+          <integer>100</integer>
+          <key>nV</key>
+          <integer>67</integer>
+          <key>nd</key>
+          <integer>50</integer>
+          <key>oH</key>
+          <integer>24</integer>
+          <key>oV</key>
+          <integer>76</integer>
+          <key>tH</key>
+          <integer>28</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</designspace>

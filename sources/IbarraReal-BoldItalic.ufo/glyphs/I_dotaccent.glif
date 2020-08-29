@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Idotaccent" format="2">
+  <advance width="410"/>
+  <unicode hex="0130"/>
+  <outline>
+    <component base="I"/>
+    <component base="dotaccentcomb.case" xOffset="-83"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/12/04 17:57:05</string>
+    </dict>
+  </lib>
+</glyph>

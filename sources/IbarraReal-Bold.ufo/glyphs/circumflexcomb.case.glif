@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb.case" format="2">
+  <anchor x="285" y="690" name="_topcase"/>
+  <outline>
+    <component base="caroncomb.case" yScale="-1" yOffset="1587"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=|caroncomb.case</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|caroncomb.case</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/07/15 08:15:15</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>570</integer>
+    </dict>
+  </lib>
+</glyph>

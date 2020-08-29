@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutecomb.case" format="2">
+  <anchor x="465" y="690" name="_topcase"/>
+  <outline>
+    <component base="acutecomb" xScale="0.966" xyScale="-0.259" yxScale="0.259" yScale="0.966" xOffset="-76" yOffset="304"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/07/24 11:05:43</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>530</integer>
+    </dict>
+  </lib>
+</glyph>

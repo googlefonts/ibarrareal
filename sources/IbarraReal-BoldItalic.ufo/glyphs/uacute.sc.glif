@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uacute.sc" format="2">
+  <advance width="669"/>
+  <outline>
+    <component base="u.sc"/>
+    <component base="acutecomb" xOffset="149" yOffset="63"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016/03/17 12:23:42</string>
+    </dict>
+  </lib>
+</glyph>

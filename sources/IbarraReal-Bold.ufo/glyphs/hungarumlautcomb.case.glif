@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hungarumlautcomb.case" format="2">
+  <anchor x="272" y="690" name="_topcase"/>
+  <outline>
+    <component base="acute" xScale="0.961" xyScale="-0.276" yxScale="0.276" yScale="0.961" xOffset="-35" yOffset="242"/>
+    <component base="acute" xScale="0.961" xyScale="-0.276" yxScale="0.276" yScale="0.961" xOffset="-259" yOffset="242"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/07/15 09:07:18</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>600</integer>
+    </dict>
+  </lib>
+</glyph>

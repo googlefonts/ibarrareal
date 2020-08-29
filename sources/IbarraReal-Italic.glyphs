@@ -1,9 +1,9 @@
 {
-.appVersion = "1343";
+.appVersion = "1230";
 DisplayStrings = (
-"Ó/nbspace/space",
-"/c_t/space/f_b/space/f_f/space/f_f_i/space/f_f_l/space/f_h/space/f_j/space/f_t/space/fi/space/fl/space/s_t \012ct/space fb/space ff/space ffi/space ffl/space fh/space fj/space ft/space fi/space fl/space st",
-"HHWHOWOOHHWOH\012WAFTING/space VATING/space OVO\012QUICK/space ZEPHYRS\012VEX/space BOLD/space JIM/space/nbspace \012zephyrs/space/space nnynoyoo/space \012nxoeAHIFTJOhmrbpdqf\012nnynoyoonn\012AeBCDEFGHIJKLMNOPQRSTUVWXYZ\012abcdefghijklmnopqrstuvwxyz",
+"Ó  ",
+"/c_t  /f_b  /f_f  /f_f_i  /f_f_l  /f_h  /f_j  /f_t  /fi  /fl  /s_t \012ct fb ff ffi ffl fh fj ft fi fl st",
+"HHWHOWOOHHWOH\012WAFTING VATING OVO\012QUICK ZEPHYRS\012VEX BOLD JIM  \012zephyrs  nnynoyoo \012nxoeAHIFTJOhmrbpdqf\012nnynoyoonn\012AeBCDEFGHIJKLMNOPQRSTUVWXYZ\012abcdefghijklmnopqrstuvwxyz",
 k,
 wa,
 "²",
@@ -21,9 +21,9 @@ w,
 "/caroncomb.case",
 "/caroncomb/circumflexcomb",
 "/caroncomb/caroncomb/caroncomb/circumflexcomb/circumflex/circumflexcomb.case",
-"/c_t/space/f_b/space/f_f/space/f_f_i/space/f_f_l/space/f_h/space/f_j/space/f_t/space/fi/space/fl/space/s_t \012ct/space fb/space ff/space ffi/space ffl/space fh/space fj/space ft/space fi/space fl/space st",
+"/c_t  /f_b  /f_f  /f_f_i  /f_f_l  /f_h  /f_j  /f_t  /fi  /fl  /s_t \012ct fb ff ffi ffl fh fj ft fi fl st",
 "/minus/greaterequal/lessequal",
-"HHWHOWOOHHWOH\012WAFTING/space VATING/space OVO\012QUICK/space ZEPHYRS\012VEX/space BOLD/space JIM/space/nbspace \012zephyrs/space nnynoyoo/space \012nxoeAHIFTJOhmrbpdqf!RE\012nnynoyoonn\012ABCDEFGHIJKLMNOPQRSTUVWXY\012abcdefghijklmnopqrstuvwxyz"
+"HHWHOWOOHHWOH\012WAFTING VATING OVO\012QUICK ZEPHYRS\012VEX BOLD JIM  \012zephyrs nnynoyoo \012nxoeAHIFTJOhmrbpdqf!RE\012nnynoyoonn\012ABCDEFGHIJKLMNOPQRSTUVWXY\012abcdefghijklmnopqrstuvwxyz"
 );
 classes = (
 {
@@ -166,6 +166,7 @@ alignmentZones = (
 );
 ascender = 710;
 capHeight = 673;
+custom = Italic;
 customParameters = (
 {
 name = typoAscender;
@@ -232,7 +233,7 @@ verticalStems = (
 90,
 110
 );
-weightValue = 0;
+weightValue = 65;
 widthValue = 0;
 xHeight = 426;
 },
@@ -248,6 +249,7 @@ alignmentZones = (
 );
 ascender = 710;
 capHeight = 673;
+custom = Italic;
 customParameters = (
 {
 name = typoAscender;
@@ -63746,8 +63748,7 @@ value = (
 interpolationWeight = 65;
 interpolationWidth = 0;
 instanceInterpolations = {
-"A0758A2D-FE5C-4D8D-B7A5-83FAC1CB14BB" = 0.35;
-"B3FC2A1D-D4D8-43EF-896F-5E7A9998234E" = 0.65;
+"A0758A2D-FE5C-4D8D-B7A5-83FAC1CB14BB" = 1;
 };
 isItalic = 1;
 linkStyle = Regular;
@@ -63765,8 +63766,8 @@ value = (
 interpolationWeight = 85;
 interpolationWidth = 0;
 instanceInterpolations = {
-"A0758A2D-FE5C-4D8D-B7A5-83FAC1CB14BB" = 0.15;
-"B3FC2A1D-D4D8-43EF-896F-5E7A9998234E" = 0.85;
+"A0758A2D-FE5C-4D8D-B7A5-83FAC1CB14BB" = 0.42857;
+"B3FC2A1D-D4D8-43EF-896F-5E7A9998234E" = 0.57143;
 };
 isItalic = 1;
 linkStyle = SemiBold;
@@ -63782,11 +63783,9 @@ value = (
 );
 }
 );
-interpolationWeight = 105;
 interpolationWidth = 0;
 instanceInterpolations = {
-"A0758A2D-FE5C-4D8D-B7A5-83FAC1CB14BB" = -0.05;
-"B3FC2A1D-D4D8-43EF-896F-5E7A9998234E" = 1.05;
+"B3FC2A1D-D4D8-43EF-896F-5E7A9998234E" = 1;
 };
 isBold = 1;
 isItalic = 1;

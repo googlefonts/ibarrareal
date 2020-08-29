@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gravecomb.case" format="2">
+  <guideline x="290" y="867" angle="0"/>
+  <guideline x="296" y="734" angle="0"/>
+  <anchor x="495" y="690" name="_topcase"/>
+  <outline>
+    <component base="gravecomb" xScale="0.899" xyScale="0.438" yxScale="-0.438" yScale="0.899" xOffset="387" yOffset="32"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/07/15 11:00:14</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>530</integer>
+    </dict>
+  </lib>
+</glyph>

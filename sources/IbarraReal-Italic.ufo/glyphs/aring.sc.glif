@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aring.sc" format="2">
+  <advance width="672"/>
+  <outline>
+    <component base="a.sc"/>
+    <component base="ringcomb" xOffset="126" yOffset="82"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/12/04 18:04:53</string>
+    </dict>
+  </lib>
+</glyph>

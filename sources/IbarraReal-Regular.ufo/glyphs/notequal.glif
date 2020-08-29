@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="notequal" format="2">
+  <advance width="600"/>
+  <unicode hex="2260"/>
+  <guideline x="73" y="172" angle="90"/>
+  <guideline x="457" y="178" angle="90"/>
+  <outline>
+    <contour>
+      <point x="70" y="88" type="line"/>
+      <point x="113" y="88" type="line"/>
+      <point x="457" y="580" type="line"/>
+      <point x="414" y="580" type="line"/>
+    </contour>
+    <component base="equal"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/07/24 11:23:46</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

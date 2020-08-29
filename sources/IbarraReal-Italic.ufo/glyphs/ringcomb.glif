@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringcomb" format="2">
+  <unicode hex="030A"/>
+  <guideline x="295" y="296" angle="68"/>
+  <anchor x="415" y="470" name="_top"/>
+  <outline>
+    <contour>
+      <point x="316" y="616" type="curve" smooth="yes"/>
+      <point x="316" y="555"/>
+      <point x="366" y="505"/>
+      <point x="427" y="505" type="curve" smooth="yes"/>
+      <point x="488" y="505"/>
+      <point x="538" y="555"/>
+      <point x="538" y="616" type="curve" smooth="yes"/>
+      <point x="538" y="677"/>
+      <point x="488" y="727"/>
+      <point x="427" y="727" type="curve" smooth="yes"/>
+      <point x="366" y="727"/>
+      <point x="316" y="677"/>
+    </contour>
+    <contour>
+      <point x="356" y="616" type="curve" smooth="yes"/>
+      <point x="356" y="655"/>
+      <point x="389" y="687"/>
+      <point x="428" y="687" type="curve" smooth="yes"/>
+      <point x="467" y="687"/>
+      <point x="498" y="655"/>
+      <point x="498" y="616" type="curve" smooth="yes"/>
+      <point x="498" y="577"/>
+      <point x="467" y="545"/>
+      <point x="428" y="545" type="curve" smooth="yes"/>
+      <point x="389" y="545"/>
+      <point x="356" y="577"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2015/08/12 21:16:25</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>530</integer>
+    </dict>
+  </lib>
+</glyph>

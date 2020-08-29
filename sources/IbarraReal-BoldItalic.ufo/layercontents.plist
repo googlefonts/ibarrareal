@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <array>
+    <array>
+      <string>public.default</string>
+      <string>glyphs</string>
+    </array>
+    <array>
+      <string>public.background</string>
+      <string>glyphs.public.background</string>
+    </array>
+    <array>
+      <string>Bold Italic Jul 21 15, 20:59</string>
+      <string>glyphs.B_old I_talic J_ul 21 15, 20_59</string>
+    </array>
+    <array>
+      <string>Bold Italic Aug 10 15, 17:58</string>
+      <string>glyphs.B_old I_talic A_ug 10 15, 17_58</string>
+    </array>
+    <array>
+      <string>Bold Italic Aug 10 15, 17:58.background</string>
+      <string>glyphs.B_old I_talic A_ug 10 15, 17_58.background</string>
+    </array>
+    <array>
+      <string>Bold Italic Sep 2 15, 17:39</string>
+      <string>glyphs.B_old I_talic S_ep 2 15, 17_39</string>
+    </array>
+  </array>
+</plist>
