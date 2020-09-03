@@ -6,10 +6,4 @@
     <component base="g"/>
     <component base="commaturnedabovecomb" xOffset="-120"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015/08/27 11:08:34</string>
-    </dict>
-  </lib>
 </glyph>

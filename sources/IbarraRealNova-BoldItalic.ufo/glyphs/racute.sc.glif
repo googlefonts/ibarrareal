@@ -5,10 +5,4 @@
     <component base="r.sc"/>
     <component base="acutecomb" xOffset="116" yOffset="96"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/03/17 12:22:27</string>
-    </dict>
-  </lib>
 </glyph>

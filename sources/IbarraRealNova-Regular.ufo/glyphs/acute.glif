@@ -5,10 +5,4 @@
   <outline>
     <component base="acutecomb"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015/06/03 22:50:37</string>
-    </dict>
-  </lib>
 </glyph>

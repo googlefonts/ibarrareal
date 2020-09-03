@@ -11,10 +11,4 @@
     </contour>
     <component base="partialdiff" xOffset="-10"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015/08/27 12:26:29</string>
-    </dict>
-  </lib>
 </glyph>

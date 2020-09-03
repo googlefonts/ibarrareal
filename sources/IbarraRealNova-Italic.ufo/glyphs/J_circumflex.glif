@@ -6,10 +6,4 @@
     <component base="J"/>
     <component base="circumflexcomb.case" xOffset="-28"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/03/30 08:30:43</string>
-    </dict>
-  </lib>
 </glyph>

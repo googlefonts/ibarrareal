@@ -63,8 +63,6 @@
       <string>h.sc</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>=p.sc-10</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017/01/02 17:25:51</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

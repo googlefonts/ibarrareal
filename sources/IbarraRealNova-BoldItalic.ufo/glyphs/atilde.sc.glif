@@ -5,10 +5,4 @@
     <component base="a.sc"/>
     <component base="tilde.sc" xOffset="101" yOffset="14"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015/12/06 18:58:41</string>
-    </dict>
-  </lib>
 </glyph>

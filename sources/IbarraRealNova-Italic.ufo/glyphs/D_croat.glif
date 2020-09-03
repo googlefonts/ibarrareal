@@ -5,10 +5,4 @@
   <outline>
     <component base="Eth"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018/06/28 15:43:27</string>
-    </dict>
-  </lib>
 </glyph>

@@ -6,10 +6,4 @@
     <component base="S"/>
     <component base="acutecomb.case" xOffset="33"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015/08/06 11:05:23</string>
-    </dict>
-  </lib>
 </glyph>

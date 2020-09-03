@@ -13,10 +13,4 @@
     </contour>
     <component base="O"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015/08/27 09:56:24</string>
-    </dict>
-  </lib>
 </glyph>

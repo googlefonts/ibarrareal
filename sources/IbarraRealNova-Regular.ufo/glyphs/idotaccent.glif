@@ -5,10 +5,4 @@
     <component base="idotless"/>
     <component base="dotaccent" xOffset="-129"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015/08/06 16:19:21</string>
-    </dict>
-  </lib>
 </glyph>

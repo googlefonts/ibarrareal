@@ -6,10 +6,4 @@
     <component base="a"/>
     <component base="ringcomb" xOffset="-40"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015/08/06 11:07:13</string>
-    </dict>
-  </lib>
 </glyph>

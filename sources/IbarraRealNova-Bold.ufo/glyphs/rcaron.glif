@@ -6,10 +6,4 @@
     <component base="r"/>
     <component base="caroncomb" xOffset="-55"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/01/04 10:32:30</string>
-    </dict>
-  </lib>
 </glyph>

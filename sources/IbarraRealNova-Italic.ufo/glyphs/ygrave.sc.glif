@@ -5,10 +5,4 @@
     <component base="y.sc"/>
     <component base="gravecomb" xOffset="35" yOffset="82"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015/12/04 18:23:08</string>
-    </dict>
-  </lib>
 </glyph>

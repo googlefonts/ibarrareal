@@ -5,10 +5,4 @@
   <outline>
     <component base="caroncomb"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015/07/15 10:45:12</string>
-    </dict>
-  </lib>
 </glyph>

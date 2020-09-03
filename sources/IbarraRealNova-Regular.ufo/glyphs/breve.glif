@@ -5,10 +5,4 @@
   <outline>
     <component base="brevecomb"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015/06/03 22:51:09</string>
-    </dict>
-  </lib>
 </glyph>

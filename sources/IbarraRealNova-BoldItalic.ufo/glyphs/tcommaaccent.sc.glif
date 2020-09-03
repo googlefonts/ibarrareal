@@ -5,10 +5,4 @@
     <component base="t.sc"/>
     <component base="commaaccentcomb" xOffset="48"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015/12/04 18:18:51</string>
-    </dict>
-  </lib>
 </glyph>

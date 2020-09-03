@@ -5,10 +5,4 @@
     <component base="u.sc"/>
     <component base="hungarumlautcomb" xOffset="146" yOffset="63"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/03/17 12:23:42</string>
-    </dict>
-  </lib>
 </glyph>

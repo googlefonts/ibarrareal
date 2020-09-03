@@ -19,10 +19,4 @@
     </contour>
     <component base="l" xOffset="37"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015/08/27 14:58:07</string>
-    </dict>
-  </lib>
 </glyph>

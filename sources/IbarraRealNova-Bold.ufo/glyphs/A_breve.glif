@@ -6,10 +6,4 @@
     <component base="A"/>
     <component base="brevecomb.case" xOffset="91"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015/08/06 11:02:04</string>
-    </dict>
-  </lib>
 </glyph>

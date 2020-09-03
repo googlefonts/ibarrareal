@@ -6,10 +6,4 @@
     <component base="idotless"/>
     <component base="dieresiscomb" xOffset="-132"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017/01/02 17:27:32</string>
-    </dict>
-  </lib>
 </glyph>

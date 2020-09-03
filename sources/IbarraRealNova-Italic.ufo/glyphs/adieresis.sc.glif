@@ -5,10 +5,4 @@
     <component base="a.sc"/>
     <component base="dieresiscomb" xOffset="174" yOffset="82"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015/12/04 18:04:53</string>
-    </dict>
-  </lib>
 </glyph>

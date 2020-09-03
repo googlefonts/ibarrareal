@@ -76,8 +76,6 @@
       <string>f</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>=s-15</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015/08/07 12:52:47</string>
       <key>public.markColor</key>
       <string>0.85,0.26,0.06,1</string>
     </dict>

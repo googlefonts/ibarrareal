@@ -6,10 +6,4 @@
     <component base="o"/>
     <component base="hungarumlautcomb" xOffset="8"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015/08/06 11:10:26</string>
-    </dict>
-  </lib>
 </glyph>

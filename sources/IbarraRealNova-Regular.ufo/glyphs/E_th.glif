@@ -12,10 +12,4 @@
     </contour>
     <component base="D"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015/08/27 09:48:31</string>
-    </dict>
-  </lib>
 </glyph>

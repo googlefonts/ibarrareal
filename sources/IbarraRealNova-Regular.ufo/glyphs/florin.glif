@@ -64,8 +64,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015/09/02 17:28:06</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

@@ -6,10 +6,4 @@
     <component base="u"/>
     <component base="ogonekcomb" xOffset="122"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/09/13 01:20:12</string>
-    </dict>
-  </lib>
 </glyph>

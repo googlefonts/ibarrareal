@@ -5,10 +5,4 @@
   <outline>
     <component base="dieresiscomb"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015/06/03 22:33:36</string>
-    </dict>
-  </lib>
 </glyph>

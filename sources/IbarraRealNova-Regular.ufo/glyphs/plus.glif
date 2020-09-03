@@ -24,8 +24,6 @@
       <string>minus</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>minus</string>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015/07/24 11:22:17</string>
       <key>public.markColor</key>
       <string>0.67,0.95,0.38,1</string>
     </dict>

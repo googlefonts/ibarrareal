@@ -5,10 +5,4 @@
     <component base="i.sc"/>
     <component base="circumflexcomb" xOffset="-34" yOffset="82"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2016/03/16 13:03:22</string>
-    </dict>
-  </lib>
 </glyph>

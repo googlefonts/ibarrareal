@@ -6,10 +6,4 @@
     <component base="W"/>
     <component base="gravecomb.case" xOffset="327"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2015/08/06 11:06:36</string>
-    </dict>
-  </lib>
 </glyph>
