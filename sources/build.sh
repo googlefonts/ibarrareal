@@ -13,12 +13,12 @@ rm -rf ../fonts
 echo "Generating Static fonts"
 mkdir -p ../fonts/ttf
 mkdir -p ../fonts/variable
-fontmake -m IbarraReal-Roman.designspace -i -o ttf --output-dir ../fonts/ttf/
-fontmake -m IbarraReal-Italic.designspace -i -o ttf --output-dir ../fonts/ttf/
+fontmake -m IbarraRealNova-Roman.designspace -i -o ttf --output-dir ../fonts/ttf/
+fontmake -m IbarraRealNova-Italic.designspace -i -o ttf --output-dir ../fonts/ttf/
 
 echo "Generating VFs"
-fontmake -m IbarraReal-Roman.designspace -o variable --output-path ../fonts/variable/IbarraReal[wght].ttf
-fontmake -m IbarraReal-Italic.designspace -o variable --output-path ../fonts/variable/IbarraReal-Italic[wght].ttf
+fontmake -m IbarraRealNova-Roman.designspace -o variable --output-path ../fonts/variable/IbarraRealNova[wght].ttf
+fontmake -m IbarraRealNova-Italic.designspace -o variable --output-path ../fonts/variable/IbarraRealNova-Italic[wght].ttf
 
 rm -rf master_ufo/ instance_ufo/ instance_ufos/
 
