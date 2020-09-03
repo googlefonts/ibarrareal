@@ -6,155 +6,44 @@
       <map input="600" output="85"/>
       <map input="700" output="100"/>
     </axis>
-    <axis tag="wdth" name="Width" minimum="100" maximum="100" default="100">
-      <map input="100" output="0"/>
-    </axis>
   </axes>
   <sources>
-    <source filename="IbarraReal-Italic.ufo" name="Ibarra Real Italic" familyname="Ibarra Real" stylename="Italic">
+    <source filename="IbarraRealNova-Italic.ufo" name="Ibarra Real Nova Italic" familyname="Ibarra Real Nova" stylename="Italic">
       <lib copy="1"/>
       <groups copy="1"/>
       <features copy="1"/>
       <info copy="1"/>
       <location>
         <dimension name="Weight" xvalue="65"/>
-        <dimension name="Width" xvalue="0"/>
       </location>
     </source>
-    <source filename="IbarraReal-BoldItalic.ufo" name="Ibarra Real Bold Italic" familyname="Ibarra Real" stylename="Bold Italic">
+    <source filename="IbarraRealNova-BoldItalic.ufo" name="Ibarra Real Nova Bold Italic" familyname="Ibarra Real Nova" stylename="Bold Italic">
       <location>
         <dimension name="Weight" xvalue="100"/>
-        <dimension name="Width" xvalue="0"/>
       </location>
     </source>
   </sources>
   <instances>
-    <instance name="Ibarra Real  Italic" familyname="Ibarra Real" stylename="Italic" filename="instance_ufos/IbarraReal-Italic.ufo" stylemapfamilyname="Ibarra Real" stylemapstylename="italic">
+    <instance name="Ibarra Real Nova Italic" familyname="Ibarra Real Nova" stylename="Italic" filename="instance_ufos/IbarraRealNova-Italic.ufo" stylemapfamilyname="Ibarra Real Nova" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="65"/>
-        <dimension name="Width" xvalue="0"/>
       </location>
       <kerning/>
       <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.customParameters</key>
-          <array>
-            <array>
-              <string>Disable autohinting for glyphs</string>
-              <array>
-                <string>.notdef</string>
-              </array>
-            </array>
-          </array>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>A0758A2D-FE5C-4D8D-B7A5-83FAC1CB14BB</key>
-            <integer>1</integer>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Regular</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
-        </dict>
-      </lib>
     </instance>
-    <instance name="Ibarra Real  SemiBold Italic" familyname="Ibarra Real" stylename="SemiBold Italic" filename="instance_ufos/IbarraReal-SemiBoldItalic.ufo" stylemapfamilyname="Ibarra Real SemiBold" stylemapstylename="italic">
+    <instance name="Ibarra Real Nova SemiBold Italic" familyname="Ibarra Real Nova" stylename="SemiBold Italic" filename="instance_ufos/IbarraRealNova-SemiBoldItalic.ufo" stylemapfamilyname="Ibarra Real Nova SemiBold" stylemapstylename="italic">
       <location>
         <dimension name="Weight" xvalue="85"/>
-        <dimension name="Width" xvalue="0"/>
       </location>
       <kerning/>
       <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.customParameters</key>
-          <array>
-            <array>
-              <string>Disable autohinting for glyphs</string>
-              <array>
-                <string>.notdef</string>
-              </array>
-            </array>
-          </array>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>A0758A2D-FE5C-4D8D-B7A5-83FAC1CB14BB</key>
-            <real>0.42857</real>
-            <key>B3FC2A1D-D4D8-43EF-896F-5E7A9998234E</key>
-            <real>0.57143</real>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>SemiBold</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
-        </dict>
-      </lib>
     </instance>
-    <instance name="Ibarra Real  Bold Italic" familyname="Ibarra Real" stylename="Bold Italic" filename="instance_ufos/IbarraReal-BoldItalic.ufo" stylemapfamilyname="Ibarra Real" stylemapstylename="bold italic">
+    <instance name="Ibarra Real Nova Bold Italic" familyname="Ibarra Real Nova" stylename="Bold Italic" filename="instance_ufos/IbarraRealNova-BoldItalic.ufo" stylemapfamilyname="Ibarra Real Nova" stylemapstylename="bold italic">
       <location>
         <dimension name="Weight" xvalue="100"/>
-        <dimension name="Width" xvalue="0"/>
       </location>
       <kerning/>
       <info/>
-      <lib>
-        <dict>
-          <key>com.schriftgestaltung.customParameters</key>
-          <array>
-            <array>
-              <string>Disable autohinting for glyphs</string>
-              <array>
-                <string>.notdef</string>
-              </array>
-            </array>
-          </array>
-          <key>com.schriftgestaltung.export</key>
-          <true/>
-          <key>com.schriftgestaltung.intanceInterpolations</key>
-          <dict>
-            <key>B3FC2A1D-D4D8-43EF-896F-5E7A9998234E</key>
-            <integer>1</integer>
-          </dict>
-          <key>com.schriftgestaltung.manualInterpolation</key>
-          <false/>
-          <key>com.schriftgestaltung.weight</key>
-          <string>Bold</string>
-          <key>com.schriftgestaltung.width</key>
-          <string>Medium (normal)</string>
-        </dict>
-      </lib>
     </instance>
   </instances>
-  <lib>
-    <dict>
-      <key>GSDimensionPlugin.Dimensions</key>
-      <dict>
-        <key>A0758A2D-FE5C-4D8D-B7A5-83FAC1CB14BB</key>
-        <dict>
-          <key>HH</key>
-          <integer>28</integer>
-          <key>HV</key>
-          <integer>90</integer>
-          <key>nV</key>
-          <integer>62</integer>
-          <key>oV</key>
-          <integer>72</integer>
-        </dict>
-        <key>B3FC2A1D-D4D8-43EF-896F-5E7A9998234E</key>
-        <dict>
-          <key>nV</key>
-          <integer>100</integer>
-        </dict>
-      </dict>
-    </dict>
-  </lib>
 </designspace>
