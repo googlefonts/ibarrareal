@@ -900,56 +900,12 @@
     <array>
       <string>.notdef</string>
     </array>
-    <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
-    <array>
-      <string>Ó  </string>
-      <string>/c_t  /f_b  /f_f  /f_f_i  /f_f_l  /f_h  /f_j  /f_t  /fi  /fl  /s_t 
-ct fb ff ffi ffl fh fj ft fi fl st</string>
-      <string>HHWHOWOOHHWOH
-WAFTING VATING OVO
-QUICK ZEPHYRS
-VEX BOLD JIM  
-zephyrs  nnynoyoo 
-nxoeAHIFTJOhmrbpdqf
-nnynoyoonn
-AeBCDEFGHIJKLMNOPQRSTUVWXYZ
-abcdefghijklmnopqrstuvwxyz</string>
-      <string>k</string>
-      <string>wa</string>
-      <string>²</string>
-      <string>/foursuperior</string>
-      <string>1¹</string>
-      <string>1H¹H²H³H/foursuperior H
-nn¹n²n³n/foursuperior nn
-oo¹o²o³o/foursuperior oo</string>
-      <string>³</string>
-      <string>w</string>
-      <string>¬</string>
-      <string>/circumflexcomb.case/Wcircumflex</string>
-      <string>/minus/greaterequal/lessequal</string>
-      <string>/minus/greaterequal</string>
-      <string>/caroncomb</string>
-      <string>/caroncomb/caron</string>
-      <string>/caroncomb.case</string>
-      <string>/caroncomb/circumflexcomb</string>
-      <string>/caroncomb/caroncomb/caroncomb/circumflexcomb/circumflex/circumflexcomb.case</string>
-      <string>/c_t  /f_b  /f_f  /f_f_i  /f_f_l  /f_h  /f_j  /f_t  /fi  /fl  /s_t 
-ct fb ff ffi ffl fh fj ft fi fl st</string>
-      <string>/minus/greaterequal/lessequal</string>
-      <string>HHWHOWOOHHWOH
-WAFTING VATING OVO
-QUICK ZEPHYRS
-VEX BOLD JIM  
-zephyrs nnynoyoo 
-nxoeAHIFTJOhmrbpdqf!RE
-nnynoyoonn
-ABCDEFGHIJKLMNOPQRSTUVWXY
-abcdefghijklmnopqrstuvwxyz</string>
-    </array>
     <key>com.schriftgestaltung.customParameter.GSFont.Enforce Compatibility Check</key>
     <integer>1</integer>
     <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
-    <false/>
+    <true/>
+    <key>com.schriftgestaltung.customParameter.GSFont.disablesLastChange</key>
+    <true/>
     <key>com.schriftgestaltung.customParameter.GSFont.note</key>
     <string>This font is fruit of a wider initiative dating back to 2007, when Calcografía Nacional, Spain’s national and historical engraving workshop, with the support of Spain’s Ministry for Industry, organised a project directed by José María Ribagorda focusing on and highlighting Spain’s typographic heritage.
 Nowadays, nobody questions the significance and growth of the Spanish language as a tool for communication between different countries and cultures around the world and the intangible capital  as well as the economic impact involved in the use of signs that could be recognised as belonging to our cultural heritage (the original typography includes not only characters, but also vignettes ceded by celebrated Latin-American and spanish designers: Manuel Alvarez Junco,Andreu Balius Planelles, Didac Ballester, Paco Bascunan, Jose Maria Cerezo, Alberto Corazon, Oyer Corazon, Pablo Cosgaya, Ruben Fontana, Javier Garcia del Olmo Jose Gil Nogues, Pepe Gimeno, Fernando Gutierrez, Juan Martinez, Laura Meseguer, Juan Antonio Moreno, Juan Nava, Miguel Ochando,  Joseph Patau Bellart, Alejandro Paul. Marc Salinas, Emilio Torne, Alex Trochut, Roberto Turegano Moratalla) . 
@@ -974,8 +930,6 @@ changes related to the enlargement of glyphs for Latin languages, legibility, sp
     <integer>100</integer>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.widthValue</key>
     <integer>0</integer>
-    <key>com.schriftgestaltung.fontMasterID</key>
-    <string>B3FC2A1D-D4D8-43EF-896F-5E7A9998234E</string>
     <key>com.schriftgestaltung.fontMasterOrder</key>
     <integer>1</integer>
     <key>com.schriftgestaltung.keyboardIncrement</key>

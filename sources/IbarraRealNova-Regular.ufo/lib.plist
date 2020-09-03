@@ -286,14 +286,12 @@
     <string>1230</string>
     <key>com.schriftgestaltung.customParameter.GSFont.Disable Subroutines</key>
     <true/>
-    <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
-    <array>
-      <string>n</string>
-    </array>
     <key>com.schriftgestaltung.customParameter.GSFont.Enforce Compatibility Check</key>
     <integer>1</integer>
     <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
-    <false/>
+    <true/>
+    <key>com.schriftgestaltung.customParameter.GSFont.disablesLastChange</key>
+    <true/>
     <key>com.schriftgestaltung.customParameter.GSFont.note</key>
     <string>This font is fruit of a wider initiative dating back to 2007, when Calcografía Nacional, Spain’s national and historical engraving workshop, with the support of Spain’s Ministry for Industry, organised a project directed by José María Ribagorda focusing on and highlighting Spain’s typographic heritage.
 Nowadays, nobody questions the significance and growth of the Spanish language as a tool for communication between different countries and cultures around the world and the intangible capital  as well as the economic impact involved in the use of signs that could be recognised as belonging to our cultural heritage (the original typography includes not only characters, but also vignettes ceded by celebrated Latin-American and spanish designers: Manuel Alvarez Junco,Andreu Balius Planelles, Didac Ballester, Paco Bascunan, Jose Maria Cerezo, Alberto Corazon, Oyer Corazon, Pablo Cosgaya, Ruben Fontana, Javier Garcia del Olmo Jose Gil Nogues, Pepe Gimeno, Fernando Gutierrez, Juan Martinez, Laura Meseguer, Juan Antonio Moreno, Juan Nava, Miguel Ochando,  Joseph Patau Bellart, Alejandro Paul. Marc Salinas, Emilio Torne, Alex Trochut, Roberto Turegano Moratalla) . 
@@ -318,8 +316,6 @@ changes related to the enlargement of glyphs for Latin languages, legibility, sp
     <integer>67</integer>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.widthValue</key>
     <integer>0</integer>
-    <key>com.schriftgestaltung.fontMasterID</key>
-    <string>BD647A82-329A-4004-812E-9CBC2DAE5B44</string>
     <key>com.schriftgestaltung.fontMasterOrder</key>
     <integer>0</integer>
     <key>com.schriftgestaltung.keyboardIncrement</key>
@@ -1001,7 +997,5 @@ changes related to the enlargement of glyphs for Latin languages, legibility, sp
       <key>twosuperior</key>
       <string>uni00B2</string>
     </dict>
-    <key>public.skipExportGlyphs</key>
-    <array/>
   </dict>
 </plist>
