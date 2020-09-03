@@ -124,10 +124,6 @@
       <integer>710</integer>
       <integer>726</integer>
     </array>
-    <key>postscriptFamilyBlues</key>
-    <array/>
-    <key>postscriptFamilyOtherBlues</key>
-    <array/>
     <key>postscriptOtherBlues</key>
     <array>
       <integer>-297</integer>
@@ -150,6 +146,10 @@
     <integer>-100</integer>
     <key>postscriptUnderlineThickness</key>
     <integer>50</integer>
+    <key>styleMapFamilyName</key>
+    <string>Ibarra Real Nova</string>
+    <key>styleMapStyleName</key>
+    <string>bold</string>
     <key>styleName</key>
     <string>Bold</string>
     <key>unitsPerEm</key>

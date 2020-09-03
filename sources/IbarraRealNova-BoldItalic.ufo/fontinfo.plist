@@ -113,6 +113,10 @@
     <integer>-100</integer>
     <key>postscriptUnderlineThickness</key>
     <integer>50</integer>
+    <key>styleMapFamilyName</key>
+    <string>Ibarra Real Nova</string>
+    <key>styleMapStyleName</key>
+    <string>bold italic</string>
     <key>styleName</key>
     <string>Bold Italic</string>
     <key>unitsPerEm</key>
