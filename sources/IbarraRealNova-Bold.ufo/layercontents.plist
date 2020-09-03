@@ -10,21 +10,5 @@
       <string>public.background</string>
       <string>glyphs.public.background</string>
     </array>
-    <array>
-      <string>Bold Aug 6 15, 13:38</string>
-      <string>glyphs.B_old A_ug 6 15, 13_38</string>
-    </array>
-    <array>
-      <string>Bold Aug 6 15, 13:38.background</string>
-      <string>glyphs.B_old A_ug 6 15, 13_38.background</string>
-    </array>
-    <array>
-      <string>Bold Sep 2 15, 17:34</string>
-      <string>glyphs.B_old S_ep 2 15, 17_34</string>
-    </array>
-    <array>
-      <string>Bold Jun 15 15, 13:43</string>
-      <string>glyphs.B_old J_un 15 15, 13_43</string>
-    </array>
   </array>
 </plist>
