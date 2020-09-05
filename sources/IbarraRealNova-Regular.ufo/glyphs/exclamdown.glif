@@ -4,7 +4,26 @@
   <unicode hex="00A1"/>
   <guideline x="118" y="411" angle="0"/>
   <outline>
-    <component base="exclam" yScale="-1" yOffset="488"/>
+    <contour>
+      <point x="93" y="289" type="line"/>
+      <point x="62" y="-170" type="line"/>
+      <point x="152" y="-170" type="line"/>
+      <point x="120" y="289" type="line"/>
+    </contour>
+    <contour>
+      <point x="106" y="494" type="curve" smooth="yes"/>
+      <point x="76" y="494"/>
+      <point x="50" y="468"/>
+      <point x="50" y="438" type="curve" smooth="yes"/>
+      <point x="50" y="406"/>
+      <point x="76" y="380"/>
+      <point x="106" y="380" type="curve" smooth="yes"/>
+      <point x="138" y="380"/>
+      <point x="164" y="406"/>
+      <point x="164" y="438" type="curve" smooth="yes"/>
+      <point x="164" y="468"/>
+      <point x="138" y="494"/>
+    </contour>
   </outline>
   <lib>
     <dict>

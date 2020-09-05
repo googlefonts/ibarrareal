@@ -152,6 +152,8 @@
     <string>greater.glif</string>
     <key>guillemetleft</key>
     <string>guillemetleft.glif</string>
+    <key>guillemetright</key>
+    <string>guillemetright.glif</string>
     <key>guilsinglleft</key>
     <string>guilsinglleft.glif</string>
     <key>h</key>
@@ -206,6 +208,8 @@
     <string>quotedblleft.glif</string>
     <key>quotedblright</key>
     <string>quotedblright.glif</string>
+    <key>quoteleft</key>
+    <string>quoteleft.glif</string>
     <key>quoteright</key>
     <string>quoteright.glif</string>
     <key>r</key>

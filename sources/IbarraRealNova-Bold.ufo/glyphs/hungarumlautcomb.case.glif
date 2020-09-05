@@ -2,8 +2,34 @@
 <glyph name="hungarumlautcomb.case" format="2">
   <anchor x="272" y="690" name="_topcase"/>
   <outline>
-    <component base="acute" xScale="0.961" xyScale="-0.276" yxScale="0.276" yScale="0.961" xOffset="-35" yOffset="242"/>
-    <component base="acute" xScale="0.961" xyScale="-0.276" yxScale="0.276" yScale="0.961" xOffset="-259" yOffset="242"/>
+    <contour>
+      <point x="310" y="706" type="line"/>
+      <point x="490" y="770" type="line" smooth="yes"/>
+      <point x="510" y="777"/>
+      <point x="521" y="791"/>
+      <point x="525" y="805" type="curve" smooth="yes"/>
+      <point x="531" y="826"/>
+      <point x="520" y="850"/>
+      <point x="494" y="858" type="curve" smooth="yes"/>
+      <point x="476" y="863"/>
+      <point x="461" y="858"/>
+      <point x="445" y="845" type="curve" smooth="yes"/>
+      <point x="297" y="726" type="line"/>
+    </contour>
+    <contour>
+      <point x="86" y="706" type="line"/>
+      <point x="266" y="770" type="line" smooth="yes"/>
+      <point x="286" y="777"/>
+      <point x="297" y="791"/>
+      <point x="301" y="805" type="curve" smooth="yes"/>
+      <point x="307" y="826"/>
+      <point x="296" y="850"/>
+      <point x="270" y="858" type="curve" smooth="yes"/>
+      <point x="252" y="863"/>
+      <point x="237" y="858"/>
+      <point x="221" y="845" type="curve" smooth="yes"/>
+      <point x="73" y="726" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

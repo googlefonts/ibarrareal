@@ -3,21 +3,49 @@
   <advance width="522"/>
   <unicode hex="F64C"/>
   <outline>
-    <component base="six.onum" xScale="-1" yScale="-1" xOffset="522" yOffset="442"/>
+    <contour>
+      <point x="338" y="451" type="curve" smooth="yes"/>
+      <point x="175" y="451"/>
+      <point x="19" y="328"/>
+      <point x="19" y="151" type="curve" smooth="yes"/>
+      <point x="19" y="78"/>
+      <point x="58" y="19"/>
+      <point x="151" y="19" type="curve" smooth="yes"/>
+      <point x="235" y="19"/>
+      <point x="316" y="77"/>
+      <point x="351" y="141" type="curve"/>
+      <point x="379" y="242" type="line"/>
+      <point x="335" y="142"/>
+      <point x="269" y="67"/>
+      <point x="185" y="67" type="curve" smooth="yes"/>
+      <point x="143" y="67"/>
+      <point x="129" y="99"/>
+      <point x="129" y="145" type="curve" smooth="yes"/>
+      <point x="129" y="245"/>
+      <point x="219" y="415"/>
+      <point x="324" y="415" type="curve" smooth="yes"/>
+      <point x="365" y="415"/>
+      <point x="389" y="386"/>
+      <point x="389" y="340" type="curve" smooth="yes"/>
+      <point x="389" y="304"/>
+      <point x="380" y="251"/>
+      <point x="350" y="180" type="curve" smooth="yes"/>
+      <point x="274" y="-1"/>
+      <point x="146" y="-199"/>
+      <point x="-86" y="-219" type="curve"/>
+      <point x="-93" y="-241" type="line"/>
+      <point x="137" y="-241"/>
+      <point x="367" y="-76"/>
+      <point x="470" y="180" type="curve" smooth="yes"/>
+      <point x="486" y="220"/>
+      <point x="494" y="257"/>
+      <point x="494" y="291" type="curve" smooth="yes"/>
+      <point x="494" y="397"/>
+      <point x="437" y="451"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-      <array>
-        <dict>
-          <key>alignment</key>
-          <integer>-1</integer>
-          <key>index</key>
-          <integer>0</integer>
-          <key>name</key>
-          <string>six.onum</string>
-        </dict>
-      </array>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>=|six.onum</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>

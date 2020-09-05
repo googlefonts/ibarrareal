@@ -2,7 +2,15 @@
 <glyph name="circumflexcomb.case" format="2">
   <anchor x="285" y="690" name="_topcase"/>
   <outline>
-    <component base="caroncomb.case" yScale="-1" yOffset="1587"/>
+    <contour>
+      <point x="264" y="877" type="line"/>
+      <point x="129" y="732" type="line"/>
+      <point x="144" y="710" type="line"/>
+      <point x="285" y="786" type="line"/>
+      <point x="426" y="710" type="line"/>
+      <point x="441" y="732" type="line"/>
+      <point x="306" y="877" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

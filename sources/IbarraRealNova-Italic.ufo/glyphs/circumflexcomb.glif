@@ -3,7 +3,15 @@
   <unicode hex="0302"/>
   <anchor x="368" y="470" name="_top"/>
   <outline>
-    <component base="caroncomb" xScale="-1" yScale="-1" xOffset="855" yOffset="1231"/>
+    <contour>
+      <point x="464" y="692" type="line"/>
+      <point x="448" y="692" type="line"/>
+      <point x="266" y="553" type="line"/>
+      <point x="278" y="540" type="line"/>
+      <point x="433" y="616" type="line"/>
+      <point x="521" y="539" type="line"/>
+      <point x="537" y="550" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

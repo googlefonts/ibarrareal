@@ -3,7 +3,12 @@
   <advance width="446"/>
   <unicode hex="005C"/>
   <outline>
-    <component base="slash" xScale="-1" xOffset="446"/>
+    <contour>
+      <point x="421" y="-7" type="line"/>
+      <point x="77" y="710" type="line"/>
+      <point x="25" y="710" type="line"/>
+      <point x="369" y="-7" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

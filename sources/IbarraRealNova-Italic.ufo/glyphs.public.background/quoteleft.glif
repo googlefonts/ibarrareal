@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="quoteleft" format="2">
-  <advance width="265"/>
-  <unicode hex="2018"/>
-  <guideline x="319" y="382" angle="0"/>
   <outline>
     <contour>
       <point x="414" y="681" type="line"/>
@@ -24,14 +21,4 @@
       <point x="405" y="661" type="curve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>=|comma</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>=|comma</string>
-      <key>public.markColor</key>
-      <string>0.67,0.95,0.38,1</string>
-    </dict>
-  </lib>
 </glyph>
