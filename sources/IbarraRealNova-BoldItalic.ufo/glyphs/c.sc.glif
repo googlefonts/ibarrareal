@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="c.sc" format="2">
   <advance width="684"/>
+  <anchor x="347" y="-53" name="bottom"/>
   <anchor x="502" y="566" name="top"/>
   <outline>
     <contour>
