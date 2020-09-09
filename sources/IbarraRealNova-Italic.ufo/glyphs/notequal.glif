@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="notequal" format="2">
+  <advance width="530"/>
+  <unicode hex="2260"/>
+  <guideline x="506" y="322" angle="90"/>
+  <outline>
+    <contour>
+      <point x="119" y="88" type="line"/>
+      <point x="162" y="88" type="line"/>
+      <point x="506" y="580" type="line"/>
+      <point x="463" y="580" type="line"/>
+    </contour>
+    <component base="equal"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>equal</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>equal</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

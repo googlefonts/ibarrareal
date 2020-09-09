@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hbar" format="2">
+  <advance width="836"/>
+  <unicode hex="0126"/>
+  <guideline x="40" y="526" angle="90"/>
+  <guideline x="795" y="591" angle="90"/>
+  <outline>
+    <contour>
+      <point x="75" y="490" type="line"/>
+      <point x="760" y="490" type="line"/>
+      <point x="760" y="528" type="line"/>
+      <point x="75" y="528" type="line"/>
+    </contour>
+    <component base="H"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>H</string>
+    </dict>
+  </lib>
+</glyph>

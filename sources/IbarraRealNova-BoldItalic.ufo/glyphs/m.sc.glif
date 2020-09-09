@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="m.sc" format="2">
+  <advance width="861"/>
+  <outline>
+    <contour>
+      <point x="308" y="-4" type="line"/>
+      <point x="322" y="-4" type="line"/>
+      <point x="706" y="460" type="line"/>
+      <point x="570" y="81" type="line" smooth="yes"/>
+      <point x="556" y="42"/>
+      <point x="544" y="37"/>
+      <point x="498" y="27" type="curve" smooth="yes"/>
+      <point x="455" y="18" type="line"/>
+      <point x="447" y="0" type="line"/>
+      <point x="748" y="0" type="line"/>
+      <point x="756" y="19" type="line"/>
+      <point x="718" y="28" type="line" smooth="yes"/>
+      <point x="684" y="36"/>
+      <point x="680" y="42"/>
+      <point x="693" y="76" type="curve" smooth="yes"/>
+      <point x="838" y="478" type="line" smooth="yes"/>
+      <point x="850" y="511"/>
+      <point x="860" y="516"/>
+      <point x="901" y="524" type="curve" smooth="yes"/>
+      <point x="948" y="533" type="line"/>
+      <point x="955" y="552" type="line"/>
+      <point x="743" y="552" type="line"/>
+      <point x="421" y="161" type="line"/>
+      <point x="410" y="552" type="line"/>
+      <point x="205" y="552" type="line"/>
+      <point x="197" y="532" type="line"/>
+      <point x="236" y="523" type="line" smooth="yes"/>
+      <point x="270" y="515"/>
+      <point x="276" y="512"/>
+      <point x="261" y="477" type="curve" smooth="yes"/>
+      <point x="83" y="76" type="line" smooth="yes"/>
+      <point x="70" y="48"/>
+      <point x="49" y="36"/>
+      <point x="21" y="30" type="curve" smooth="yes"/>
+      <point x="-32" y="19" type="line"/>
+      <point x="-40" y="0" type="line"/>
+      <point x="192" y="0" type="line"/>
+      <point x="200" y="19" type="line"/>
+      <point x="141" y="32" type="line" smooth="yes"/>
+      <point x="116" y="37"/>
+      <point x="103" y="51"/>
+      <point x="115" y="76" type="curve" smooth="yes"/>
+      <point x="294" y="472" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>12</integer>
+        <key>height</key>
+        <integer>82</integer>
+        <key>weight</key>
+        <integer>4</integer>
+        <key>width</key>
+        <integer>85</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

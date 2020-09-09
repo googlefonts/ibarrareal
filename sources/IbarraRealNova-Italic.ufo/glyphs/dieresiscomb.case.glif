@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscomb.case" format="2">
+  <anchor x="487" y="690" name="_topcase"/>
+  <outline>
+    <component base="dieresiscomb" xOffset="71" yOffset="175"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>dieresiscomb</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>dieresiscomb</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>531</integer>
+    </dict>
+  </lib>
+</glyph>

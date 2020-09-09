@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tbar.sc" format="2">
+  <advance width="624"/>
+  <outline>
+    <contour>
+      <point x="174" y="254" type="line"/>
+      <point x="500" y="254" type="line"/>
+      <point x="519" y="302" type="line"/>
+      <point x="193" y="302" type="line"/>
+    </contour>
+    <component base="t.sc"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>12</integer>
+        <key>height</key>
+        <integer>82</integer>
+        <key>weight</key>
+        <integer>4</integer>
+        <key>width</key>
+        <integer>85</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>t.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>t.sc</string>
+    </dict>
+  </lib>
+</glyph>

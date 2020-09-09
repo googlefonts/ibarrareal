@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="exclamdown" format="2">
+  <advance width="214"/>
+  <unicode hex="00A1"/>
+  <guideline x="118" y="411" angle="0"/>
+  <outline>
+    <contour>
+      <point x="93" y="289" type="line"/>
+      <point x="62" y="-170" type="line"/>
+      <point x="152" y="-170" type="line"/>
+      <point x="120" y="289" type="line"/>
+    </contour>
+    <contour>
+      <point x="106" y="494" type="curve" smooth="yes"/>
+      <point x="76" y="494"/>
+      <point x="50" y="468"/>
+      <point x="50" y="438" type="curve" smooth="yes"/>
+      <point x="50" y="406"/>
+      <point x="76" y="380"/>
+      <point x="106" y="380" type="curve" smooth="yes"/>
+      <point x="138" y="380"/>
+      <point x="164" y="406"/>
+      <point x="164" y="438" type="curve" smooth="yes"/>
+      <point x="164" y="468"/>
+      <point x="138" y="494"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=|exclam</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|exclam</string>
+    </dict>
+  </lib>
+</glyph>

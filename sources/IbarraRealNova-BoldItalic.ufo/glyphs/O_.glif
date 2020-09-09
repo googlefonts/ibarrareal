@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="O" format="2">
+  <advance width="825"/>
+  <unicode hex="004F"/>
+  <guideline x="520" y="659" angle="90"/>
+  <anchor x="549" y="690" name="topcase"/>
+  <outline>
+    <contour>
+      <point x="388" y="-8" type="curve" smooth="yes"/>
+      <point x="626" y="-8"/>
+      <point x="850" y="181"/>
+      <point x="850" y="413" type="curve" smooth="yes"/>
+      <point x="850" y="568"/>
+      <point x="739" y="683"/>
+      <point x="549" y="683" type="curve" smooth="yes"/>
+      <point x="311" y="683"/>
+      <point x="87" y="494"/>
+      <point x="87" y="262" type="curve" smooth="yes"/>
+      <point x="87" y="107"/>
+      <point x="198" y="-8"/>
+    </contour>
+    <contour>
+      <point x="409" y="27" type="curve" smooth="yes"/>
+      <point x="295" y="27"/>
+      <point x="237" y="107"/>
+      <point x="237" y="234" type="curve" smooth="yes"/>
+      <point x="237" y="408"/>
+      <point x="356" y="649"/>
+      <point x="534" y="649" type="curve" smooth="yes"/>
+      <point x="648" y="649"/>
+      <point x="706" y="569"/>
+      <point x="706" y="442" type="curve" smooth="yes"/>
+      <point x="706" y="268"/>
+      <point x="587" y="27"/>
+    </contour>
+  </outline>
+</glyph>
