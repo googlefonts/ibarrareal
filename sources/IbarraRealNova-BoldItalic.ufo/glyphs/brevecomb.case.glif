@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="brevecomb.case" format="2">
-  <guideline x="507" y="710" angle="0"/>
-  <guideline x="523" y="878" angle="0"/>
+  <guideline x="507" y="710" angle="0" identifier="2y3QNMtVOK"/>
+  <guideline x="523" y="878" angle="0" identifier="DjStim5UmR"/>
   <anchor x="490" y="690" name="_topcase"/>
   <outline>
     <contour>

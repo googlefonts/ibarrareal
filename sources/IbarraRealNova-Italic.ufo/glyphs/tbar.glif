@@ -2,8 +2,8 @@
 <glyph name="tbar" format="2">
   <advance width="324"/>
   <unicode hex="0167"/>
-  <guideline x="306" y="330" angle="68"/>
-  <guideline x="83" y="330" angle="68"/>
+  <guideline x="306" y="330" angle="68" identifier="dbwqqLgzeT"/>
+  <guideline x="83" y="330" angle="68" identifier="NJkTyfcVG3"/>
   <outline>
     <contour>
       <point x="46" y="238" type="line"/>

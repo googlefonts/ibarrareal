@@ -20,7 +20,7 @@
         <key>identifier</key>
         <string>2jOFUb7iru</string>
         <key>x</key>
-        <integer>91</integer>
+        <integer>161</integer>
         <key>y</key>
         <integer>-13</integer>
       </dict>
@@ -154,6 +154,10 @@
       <integer>710</integer>
       <integer>726</integer>
     </array>
+    <key>postscriptFamilyBlues</key>
+    <array/>
+    <key>postscriptFamilyOtherBlues</key>
+    <array/>
     <key>postscriptOtherBlues</key>
     <array>
       <integer>-291</integer>

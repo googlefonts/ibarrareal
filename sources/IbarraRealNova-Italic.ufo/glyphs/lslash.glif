@@ -2,8 +2,8 @@
 <glyph name="lslash" format="2">
   <advance width="298"/>
   <unicode hex="0142"/>
-  <guideline x="372" y="328" angle="68"/>
-  <guideline x="98" y="338" angle="68"/>
+  <guideline x="372" y="328" angle="68" identifier="UdaBtxWYgP"/>
+  <guideline x="98" y="338" angle="68" identifier="RcHi7dy7r3"/>
   <outline>
     <contour>
       <point x="217" y="331" type="line"/>

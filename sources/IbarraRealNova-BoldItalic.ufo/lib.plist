@@ -953,6 +953,10 @@ changes related to the enlargement of glyphs for Latin languages, legibility, sp
     <integer>100</integer>
     <key>com.schriftgestaltung.width</key>
     <string>Regular</string>
+    <key>com.typemytype.robofont.segmentType</key>
+    <string>curve</string>
+    <key>com.typemytype.robofont.smartSets.uniqueKey</key>
+    <string>5327764496</string>
     <key>public.glyphOrder</key>
     <array>
       <string>A</string>
