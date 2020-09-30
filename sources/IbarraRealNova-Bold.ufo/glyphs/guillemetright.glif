@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guillemetright" format="2">
+  <advance width="381"/>
+  <unicode hex="00BB"/>
+  <outline>
+    <contour>
+      <point x="53" y="49" type="line"/>
+      <point x="198" y="200" type="line"/>
+      <point x="198" y="206" type="line"/>
+      <point x="53" y="357" type="line"/>
+      <point x="25" y="337" type="line"/>
+      <point x="96" y="204" type="line"/>
+      <point x="25" y="69" type="line"/>
+    </contour>
+    <contour>
+      <point x="221" y="49" type="line"/>
+      <point x="366" y="200" type="line"/>
+      <point x="366" y="206" type="line"/>
+      <point x="221" y="357" type="line"/>
+      <point x="193" y="337" type="line"/>
+      <point x="264" y="204" type="line"/>
+      <point x="193" y="69" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=|guilsinglleft</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|guilsinglleft</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

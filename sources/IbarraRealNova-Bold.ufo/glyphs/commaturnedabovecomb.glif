@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaturnedabovecomb" format="2">
+  <unicode hex="0312"/>
+  <anchor x="270" y="470" name="_top"/>
+  <outline>
+    <contour>
+      <point x="370" y="733" type="line"/>
+      <point x="258" y="727"/>
+      <point x="192" y="674"/>
+      <point x="192" y="602" type="curve" smooth="yes"/>
+      <point x="192" y="555"/>
+      <point x="239" y="519"/>
+      <point x="301" y="506" type="curve"/>
+      <point x="322" y="534"/>
+      <point x="341" y="548"/>
+      <point x="378" y="565" type="curve"/>
+      <point x="378" y="592" type="line"/>
+      <point x="375" y="592"/>
+      <point x="371" y="592"/>
+      <point x="368" y="592" type="curve" smooth="yes"/>
+      <point x="323" y="593"/>
+      <point x="298" y="618"/>
+      <point x="298" y="638" type="curve" smooth="yes"/>
+      <point x="298" y="669"/>
+      <point x="327" y="694"/>
+      <point x="370" y="698" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=|commaaccentcomb</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|commaaccentcomb</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>570</integer>
+    </dict>
+  </lib>
+</glyph>

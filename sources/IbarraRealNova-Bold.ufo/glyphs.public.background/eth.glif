@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eth" format="2">
+  <outline>
+    <contour>
+      <point x="241" y="499" type="line"/>
+      <point x="253" y="472" type="line"/>
+      <point x="523" y="592" type="line"/>
+      <point x="511" y="618" type="line"/>
+    </contour>
+  </outline>
+</glyph>

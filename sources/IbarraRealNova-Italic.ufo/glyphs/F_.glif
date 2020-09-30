@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="F" format="2">
+  <advance width="644"/>
+  <unicode hex="0046"/>
+  <outline>
+    <contour>
+      <point x="-46" y="0" type="line"/>
+      <point x="299" y="0" type="line"/>
+      <point x="306" y="18" type="line"/>
+      <point x="245" y="29" type="line" smooth="yes"/>
+      <point x="193" y="38"/>
+      <point x="188" y="46"/>
+      <point x="205" y="88" type="curve" smooth="yes"/>
+      <point x="299" y="321" type="line"/>
+      <point x="433" y="321" type="line" smooth="yes"/>
+      <point x="491" y="321"/>
+      <point x="539" y="321"/>
+      <point x="521" y="241" type="curve" smooth="yes"/>
+      <point x="512" y="197" type="line"/>
+      <point x="530" y="198" type="line"/>
+      <point x="642" y="474" type="line"/>
+      <point x="624" y="474" type="line"/>
+      <point x="597" y="427" type="line" smooth="yes"/>
+      <point x="552" y="349"/>
+      <point x="506" y="349"/>
+      <point x="445" y="349" type="curve" smooth="yes"/>
+      <point x="311" y="349" type="line"/>
+      <point x="432" y="649" type="line"/>
+      <point x="619" y="649" type="line" smooth="yes"/>
+      <point x="710" y="649"/>
+      <point x="721" y="554"/>
+      <point x="713" y="496" type="curve"/>
+      <point x="733" y="496" type="line"/>
+      <point x="741" y="524"/>
+      <point x="747" y="568"/>
+      <point x="766" y="617" type="curve" smooth="yes"/>
+      <point x="774" y="635"/>
+      <point x="783" y="654"/>
+      <point x="795" y="673" type="curve"/>
+      <point x="226" y="673" type="line"/>
+      <point x="219" y="655" type="line"/>
+      <point x="275" y="644" type="line" smooth="yes"/>
+      <point x="326" y="634"/>
+      <point x="332" y="627"/>
+      <point x="315" y="585" type="curve" smooth="yes"/>
+      <point x="115" y="88" type="line" smooth="yes"/>
+      <point x="98" y="46"/>
+      <point x="86" y="39"/>
+      <point x="27" y="29" type="curve" smooth="yes"/>
+      <point x="-39" y="18" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+    </dict>
+  </lib>
+</glyph>

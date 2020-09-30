@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncomb" format="2">
+  <unicode hex="030C"/>
+  <anchor x="395" y="470" name="_top"/>
+  <outline>
+    <contour>
+      <point x="390" y="527" type="line"/>
+      <point x="432" y="527" type="line"/>
+      <point x="638" y="704" type="line"/>
+      <point x="621" y="724" type="line"/>
+      <point x="440" y="627" type="line"/>
+      <point x="344" y="719" type="line"/>
+      <point x="325" y="708" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>570</integer>
+    </dict>
+  </lib>
+</glyph>

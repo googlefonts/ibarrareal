@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hbar.sc" format="2">
+  <advance width="775"/>
+  <outline>
+    <contour>
+      <point x="141" y="389" type="line"/>
+      <point x="787" y="389" type="line"/>
+      <point x="806" y="438" type="line"/>
+      <point x="160" y="438" type="line"/>
+    </contour>
+    <component base="h.sc"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>12</integer>
+        <key>height</key>
+        <integer>82</integer>
+        <key>weight</key>
+        <integer>4</integer>
+        <key>width</key>
+        <integer>85</integer>
+      </dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>h.sc</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>h.sc</string>
+    </dict>
+  </lib>
+</glyph>

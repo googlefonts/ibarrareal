@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="greater" format="2">
+  <outline>
+    <contour>
+      <point x="466" y="333" type="line"/>
+      <point x="112" y="544" type="line"/>
+      <point x="112" y="493" type="line"/>
+      <point x="382" y="333" type="line"/>
+      <point x="112" y="174" type="line"/>
+      <point x="112" y="122" type="line"/>
+    </contour>
+  </outline>
+</glyph>

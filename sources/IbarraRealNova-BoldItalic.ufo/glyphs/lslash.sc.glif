@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lslash.sc" format="2">
+  <advance width="631"/>
+  <outline>
+    <contour>
+      <point x="26" y="165" type="line"/>
+      <point x="543" y="306" type="line"/>
+      <point x="562" y="354" type="line"/>
+      <point x="45" y="213" type="line"/>
+    </contour>
+    <component base="l.sc" xOffset="11"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>RMXScaler</key>
+      <dict>
+        <key>adjustSpace</key>
+        <integer>12</integer>
+        <key>height</key>
+        <integer>82</integer>
+        <key>weight</key>
+        <integer>4</integer>
+        <key>width</key>
+        <integer>85</integer>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

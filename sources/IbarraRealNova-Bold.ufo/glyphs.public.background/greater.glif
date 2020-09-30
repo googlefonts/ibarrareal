@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="greater" format="2">
+  <outline>
+    <contour>
+      <point x="450" y="318" type="line"/>
+      <point x="449" y="350" type="line"/>
+      <point x="75" y="524" type="line"/>
+      <point x="75" y="489" type="line"/>
+      <point x="413" y="334" type="line"/>
+      <point x="75" y="178" type="line"/>
+      <point x="75" y="142" type="line"/>
+    </contour>
+    <contour>
+      <point x="499" y="276" type="move"/>
+      <point x="75" y="466" type="line"/>
+    </contour>
+    <contour>
+      <point x="75" y="202" type="move"/>
+      <point x="500" y="394" type="line"/>
+    </contour>
+  </outline>
+</glyph>
