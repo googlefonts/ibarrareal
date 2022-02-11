@@ -29,7 +29,7 @@ MarkupSafe==1.1.1
 MutatorMath==3.0.1
 opentype-sanitizer==8.0.0.post2
 Pillow==7.0.0
-protobuf==3.13.0
+protobuf==3.15.0
 pybrowserstack-screenshots==0.1
 pycairo==1.19.1
 pyclipper==1.2.0
