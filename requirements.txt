@@ -112,7 +112,6 @@ fonttools[lxml,ufo,unicode,woff]==4.44.0
     #   fontmath
     #   fontparts
     #   fontpens
-    #   fonttools
     #   gftools
     #   glyphsets
     #   glyphslib
@@ -136,7 +135,7 @@ gftools==0.9.36
     # via -r requirements.in
 gitdb==4.0.11
     # via gitpython
-gitpython==3.1.40
+gitpython==3.1.41
     # via font-v
 glyphsets==0.6.5
     # via gftools
@@ -213,9 +212,7 @@ pygithub==2.1.1
 pygments==2.16.1
     # via rich
 pyjwt[crypto]==2.8.0
-    # via
-    #   pygithub
-    #   pyjwt
+    # via pygithub
 pynacl==1.5.0
     # via pygithub
 pyparsing==3.1.1
@@ -270,7 +267,6 @@ ufo2ft[cffsubr,compreffor]==2.33.4
     # via
     #   fontmake
     #   nanoemoji
-    #   ufo2ft
 ufolib2==0.16.0
     # via
     #   babelfont
