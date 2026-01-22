@@ -112,7 +112,6 @@ fonttools[lxml,ufo,unicode,woff]==4.44.0
     #   fontmath
     #   fontparts
     #   fontpens
-    #   fonttools
     #   gftools
     #   glyphsets
     #   glyphslib
@@ -181,10 +180,11 @@ opentype-sanitizer==9.1.0
     # via gftools
 orjson==3.9.10
     # via babelfont
-packaging==23.2
+packaging==26.0
     # via
     #   build
     #   gftools
+    #   wheel
 picosvg==0.22.1
     # via nanoemoji
 pillow==10.1.0
@@ -213,9 +213,7 @@ pygithub==2.1.1
 pygments==2.16.1
     # via rich
 pyjwt[crypto]==2.8.0
-    # via
-    #   pygithub
-    #   pyjwt
+    # via pygithub
 pynacl==1.5.0
     # via pygithub
 pyparsing==3.1.1
@@ -270,7 +268,6 @@ ufo2ft[cffsubr,compreffor]==2.33.4
     # via
     #   fontmake
     #   nanoemoji
-    #   ufo2ft
 ufolib2==0.16.0
     # via
     #   babelfont
@@ -300,7 +297,7 @@ vharfbuzz==0.2.0
     # via gftools
 vttlib==0.12.0
     # via gftools
-wheel==0.41.3
+wheel==0.46.2
     # via pip-tools
 wrapt==1.16.0
     # via deprecated
